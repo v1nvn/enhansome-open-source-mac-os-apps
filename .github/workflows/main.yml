@@ -19,6 +19,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: 'true'
+          persist-credentials: false
 
       - name: Run Awesome List Enhancer and Commit
         uses: v1nvn/enhansome@v1
