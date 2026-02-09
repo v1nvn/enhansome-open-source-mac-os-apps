@@ -130,7 +130,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🎵 Audio (36)
 
-* [LosslessCut](https://github.com/mifi/lossless-cut) ⭐ 37,985 | 🐛 242 | 🌐 TypeScript | 📅 2026-01-30 - The swiss army knife of lossless video/audio editing without re-encoding.
+* [LosslessCut](https://github.com/mifi/lossless-cut) ⭐ 38,008 | 🐛 243 | 🌐 TypeScript | 📅 2026-01-30 - The swiss army knife of lossless video/audio editing without re-encoding.
 
   <details>
   <summary>More</summary>
@@ -149,7 +149,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [MPV](https://github.com/mpv-player/mpv) ⭐ 33,940 | 🐛 1,079 | 🌐 C | 📅 2026-02-08 - Lightweight, highly configurable media player.
+* [MPV](https://github.com/mpv-player/mpv) ⭐ 33,950 | 🐛 1,077 | 🌐 C | 📅 2026-02-08 - Lightweight, highly configurable media player.
 
   <details>
   <summary>More</summary>
@@ -168,7 +168,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [MonitorControl](https://github.com/MonitorControl/MonitorControl) ⭐ 32,345 | 🐛 20 | 🌐 Swift | 📅 2026-01-15 - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
+* [MonitorControl](https://github.com/MonitorControl/MonitorControl) ⭐ 32,354 | 🐛 20 | 🌐 Swift | 📅 2026-01-15 - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
 
   <details>
   <summary>More</summary>
@@ -185,7 +185,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Background Music](https://github.com/kyleneideck/BackgroundMusic) ⭐ 18,607 | 🐛 521 | 🌐 C++ | 📅 2025-12-29 - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+* [Background Music](https://github.com/kyleneideck/BackgroundMusic) ⭐ 18,614 | 🐛 521 | 🌐 C++ | 📅 2025-12-29 - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 
   <details>
   <summary>More</summary>
@@ -202,7 +202,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [BlackHole](https://github.com/ExistentialAudio/BlackHole) ⭐ 18,351 | 🐛 8 | 🌐 C | 📅 2025-12-19 - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
+* [BlackHole](https://github.com/ExistentialAudio/BlackHole) ⭐ 18,357 | 🐛 8 | 🌐 C | 📅 2025-12-19 - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 
   <details>
   <summary>More</summary>
@@ -234,7 +234,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [shairport-sync](https://github.com/mikebrady/shairport-sync) ⭐ 8,483 | 🐛 16 | 🌐 C | 📅 2026-02-02 - macOS/Linux/FreeBSD/OpenBSD Airplay audio receiver.
+* [shairport-sync](https://github.com/mikebrady/shairport-sync) ⭐ 8,486 | 🐛 17 | 🌐 C | 📅 2026-02-02 - macOS/Linux/FreeBSD/OpenBSD Airplay audio receiver.
 
   <details>
   <summary>More</summary>
@@ -247,7 +247,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [eqMac2](https://github.com/bitgapp/eqMac) ⭐ 6,496 | 🐛 128 | 🌐 Swift | 📅 2025-11-02 - System-Wide Equalizer for the Mac.
+* [eqMac2](https://github.com/bitgapp/eqMac) ⭐ 6,497 | 🐛 128 | 🌐 Swift | 📅 2025-11-02 - System-Wide Equalizer for the Mac.
 
   <details>
   <summary>More</summary>
@@ -314,7 +314,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [SpotMenu](https://github.com/kmikiy/SpotMenu) ⭐ 3,059 | 🐛 8 | 🌐 Swift | 📅 2026-01-29 - Spotify and iTunes in your menu bar.
+* [SpotMenu](https://github.com/kmikiy/SpotMenu) ⭐ 3,058 | 🐛 8 | 🌐 Swift | 📅 2026-01-29 - Spotify and iTunes in your menu bar.
 
   <details>
   <summary>More</summary>
@@ -331,7 +331,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [fre:ac](https://github.com/enzo1982/freac) ⭐ 1,761 | 🐛 198 | 🌐 C++ | 📅 2026-01-23 - The fre:ac audio converter project.
+* [fre:ac](https://github.com/enzo1982/freac) ⭐ 1,762 | 🐛 198 | 🌐 C++ | 📅 2026-01-23 - The fre:ac audio converter project.
 
   <details>
   <summary>More</summary>
@@ -348,7 +348,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Tickeys](https://github.com/yingDev/Tickeys) ⭐ 1,531 | 🐛 51 | 🌐 Rust | 📅 2023-04-23 - Instant audio feedback for typing. macOS version.
+* [Tickeys](https://github.com/yingDev/Tickeys) ⭐ 1,532 | 🐛 51 | 🌐 Rust | 📅 2023-04-23 - Instant audio feedback for typing. macOS version.
 
   <details>
   <summary>More</summary>
@@ -422,7 +422,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Karaoke Forever](https://github.com/bhj/KaraokeEternal) ⭐ 681 | 🐛 8 | 🌐 TypeScript | 📅 2026-02-06 - Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.
+* [Karaoke Forever](https://github.com/bhj/KaraokeEternal) ⭐ 681 | 🐛 8 | 🌐 TypeScript | 📅 2026-02-08 - Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.
 
   <details>
   <summary>More</summary>
@@ -760,7 +760,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Scope](https://github.com/billthefarmer/audiotools/tree/master/Scope/swift) ⭐ 52 | 🐛 0 | 🌐 Swift | 📅 2023-04-12 - Audio Oscilloscope
+* [Scope](https://github.com/billthefarmer/audiotools/tree/master/Scope/swift) ⭐ 53 | 🐛 0 | 🌐 Swift | 📅 2023-04-12 - Audio Oscilloscope
 
   <details>
   <summary>More</summary>
@@ -798,7 +798,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 💾 Backup (5)
 
-* [Mackup](https://github.com/lra/mackup) ⭐ 15,099 | 🐛 293 | 🌐 Python | 📅 2026-01-12 - Keep your application settings in sync (macOS/Linux).
+* [Mackup](https://github.com/lra/mackup) ⭐ 15,101 | 🐛 293 | 🌐 Python | 📅 2026-02-08 - Keep your application settings in sync (macOS/Linux).
 
   <details>
   <summary>More</summary>
@@ -811,7 +811,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [shallow-backup](https://github.com/alichtman/shallow-backup) ⭐ 1,307 | 🐛 31 | 🌐 Python | 📅 2025-02-13 - Easily create lightweight documentation of installed applications, dotfiles, and more.
+* [shallow-backup](https://github.com/alichtman/shallow-backup) ⭐ 1,308 | 🐛 31 | 🌐 Python | 📅 2025-02-13 - Easily create lightweight documentation of installed applications, dotfiles, and more.
 
   <details>
   <summary>More</summary>
@@ -828,7 +828,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [UrBackup](https://github.com/uroni/urbackup_backend) ⭐ 829 | 🐛 1 | 🌐 C | 📅 2026-02-07 - UrBackup is Client/Server network backup for Windows, macOS and Linux.
+* [UrBackup](https://github.com/uroni/urbackup_backend) ⭐ 830 | 🐛 1 | 🌐 C | 📅 2026-02-07 - UrBackup is Client/Server network backup for Windows, macOS and Linux.
 
   <details>
   <summary>More</summary>
@@ -873,7 +873,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🌐 Browser (13)
 
-* [Brave Browser](https://github.com/brave/brave-browser) ⭐ 21,327 | 🐛 10,355 | 📅 2026-02-08 - Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux.
+* [Brave Browser](https://github.com/brave/brave-browser) ⭐ 21,332 | 🐛 10,346 | 📅 2026-02-09 - Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux.
 
   <details>
   <summary>More</summary>
@@ -886,7 +886,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Min Browser](https://github.com/minbrowser/min) ⭐ 8,842 | 🐛 593 | 🌐 JavaScript | 📅 2026-01-25 - A fast and efficient minimal web browser.
+* [Min Browser](https://github.com/minbrowser/min) ⭐ 8,844 | 🐛 593 | 🌐 JavaScript | 📅 2026-01-25 - A fast and efficient minimal web browser.
 
   <details>
   <summary>More</summary>
@@ -1001,7 +1001,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [otter-browser](https://github.com/OtterBrowser/otter-browser) ⭐ 1,950 | 🐛 269 | 🌐 C++ | 📅 2026-02-07 - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.
+* [otter-browser](https://github.com/OtterBrowser/otter-browser) ⭐ 1,950 | 🐛 269 | 🌐 C++ | 📅 2026-02-08 - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.
 
   <details>
   <summary>More</summary>
@@ -1076,7 +1076,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 💬 Chat (19)
 
-* [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) ⭐ 29,754 | 🐛 930 | 🌐 C++ | 📅 2026-02-07 - Telegram Desktop messaging app.
+* [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) ⭐ 29,762 | 🐛 935 | 🌐 C++ | 📅 2026-02-08 - Telegram Desktop messaging app.
 
   <details>
   <summary>More</summary>
@@ -1093,7 +1093,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Signal Desktop](https://github.com/signalapp/Signal-Desktop) ⭐ 16,006 | 🐛 883 | 🌐 TypeScript | 📅 2026-02-04 - Electron app that links with your Signal Android or Signal iOS app.
+* [Signal Desktop](https://github.com/signalapp/Signal-Desktop) ⭐ 16,009 | 🐛 886 | 🌐 TypeScript | 📅 2026-02-09 - Electron app that links with your Signal Android or Signal iOS app.
 
   <details>
   <summary>More</summary>
@@ -1123,7 +1123,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Element](https://github.com/vector-im/element-web) ⭐ 12,524 | 🐛 3,232 | 🌐 TypeScript | 📅 2026-02-07 - Element is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/) protocol.
+* [Element](https://github.com/vector-im/element-web) ⭐ 12,528 | 🐛 3,233 | 🌐 TypeScript | 📅 2026-02-07 - Element is a collaboration app (currently Electron) for the [Matrix](https://matrix.org/) protocol.
 
   <details>
   <summary>More</summary>
@@ -1206,7 +1206,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [RocketChat](https://github.com/RocketChat/Rocket.Chat.Electron) ⭐ 1,671 | 🐛 213 | 🌐 TypeScript | 📅 2026-02-05 - Free open source chat system for teams. An alternative to Slack that can also be self hosted.
+* [RocketChat](https://github.com/RocketChat/Rocket.Chat.Electron) ⭐ 1,672 | 🐛 213 | 🌐 TypeScript | 📅 2026-02-05 - Free open source chat system for teams. An alternative to Slack that can also be self hosted.
 
   <details>
   <summary>More</summary>
@@ -1221,7 +1221,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Wire Desktop](https://github.com/wireapp/wire-desktop) ⭐ 1,115 | 🐛 212 | 🌐 TypeScript | 📅 2026-02-07 - Standalone Electron app for the chatapp Wire.
+* [Wire Desktop](https://github.com/wireapp/wire-desktop) ⭐ 1,115 | 🐛 213 | 🌐 TypeScript | 📅 2026-02-09 - Standalone Electron app for the chatapp Wire.
 
   <details>
   <summary>More</summary>
@@ -1486,7 +1486,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🗄️ Database (18)
 
-* [DBeaver](https://github.com/dbeaver/dbeaver) ⭐ 48,593 | 🐛 3,229 | 🌐 Java | 📅 2026-02-07 - Universal database tool and SQL client.
+* [DBeaver](https://github.com/dbeaver/dbeaver) ⭐ 48,599 | 🐛 3,229 | 🌐 Java | 📅 2026-02-07 - Universal database tool and SQL client.
 
   <details>
   <summary>More</summary>
@@ -1509,7 +1509,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) ⭐ 23,594 | 🐛 815 | 🌐 C++ | 📅 2026-01-29 - SQLite database management GUI.
+* [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) ⭐ 23,595 | 🐛 815 | 🌐 C++ | 📅 2026-01-29 - SQLite database management GUI.
 
   <details>
   <summary>More</summary>
@@ -1526,7 +1526,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Redis Desktop Manager](https://github.com/uglide/RedisDesktopManager) ⭐ 23,228 | 🐛 67 | 🌐 C++ | 📅 2024-07-10 - Cross-platform open source database management tool for Redis ®
+* [Redis Desktop Manager](https://github.com/uglide/RedisDesktopManager) ⭐ 23,229 | 🐛 67 | 🌐 C++ | 📅 2024-07-10 - Cross-platform open source database management tool for Redis ®
 
   <details>
   <summary>More</summary>
@@ -1543,7 +1543,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) ⭐ 21,952 | 🐛 1,038 | 🌐 TypeScript | 📅 2026-02-07 - SQL editor and manager with support for SQLite, MySQL, MariaDB, Postgres, CockroachDB, SQL Server, and Amazon Redshift.
+* [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) ⭐ 21,955 | 🐛 1,039 | 🌐 TypeScript | 📅 2026-02-07 - SQL editor and manager with support for SQLite, MySQL, MariaDB, Postgres, CockroachDB, SQL Server, and Amazon Redshift.
 
   <details>
   <summary>More</summary>
@@ -1564,7 +1564,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Medis](https://github.com/luin/medis) ⭐ 11,763 | 🐛 71 | 🌐 JavaScript | 📅 2024-02-21 - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
+* [Medis](https://github.com/luin/medis) ⭐ 11,762 | 🐛 71 | 🌐 JavaScript | 📅 2024-02-21 - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 
   <details>
   <summary>More</summary>
@@ -1581,7 +1581,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Robo 3T](https://github.com/Studio3T/robomongo) ⭐ 9,369 | 🐛 724 | 🌐 C++ | 📅 2022-09-22 - Robo 3T (formerly Robomongo) is the free lightweight GUI for MongoDB enthusiasts.
+* [Robo 3T](https://github.com/Studio3T/robomongo) ⭐ 9,368 | 🐛 724 | 🌐 C++ | 📅 2022-09-22 - Robo 3T (formerly Robomongo) is the free lightweight GUI for MongoDB enthusiasts.
 
   <details>
   <summary>More</summary>
@@ -1598,7 +1598,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Sequel Pro](https://github.com/sequelpro/sequelpro) ⭐ 9,202 | 🐛 529 | 🌐 Objective-C | 📅 2023-02-25 - MySQL/MariaDB database management for macOS.
+* [Sequel Pro](https://github.com/sequelpro/sequelpro) ⭐ 9,203 | 🐛 529 | 🌐 Objective-C | 📅 2023-02-25 - MySQL/MariaDB database management for macOS.
 
   <details>
   <summary>More</summary>
@@ -1617,7 +1617,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Postgres.app](https://github.com/PostgresApp/PostgresApp) ⭐ 7,686 | 🐛 146 | 🌐 Makefile | 📅 2026-02-04 - The easiest way to get started with PostgreSQL on the Mac.
+* [Postgres.app](https://github.com/PostgresApp/PostgresApp) ⭐ 7,688 | 🐛 146 | 🌐 Makefile | 📅 2026-02-04 - The easiest way to get started with PostgreSQL on the Mac.
 
   <details>
   <summary>More</summary>
@@ -1630,7 +1630,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) ⭐ 7,291 | 🐛 232 | 🌐 Objective-C | 📅 2026-01-02 - Sequel Ace is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
+* [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) ⭐ 7,290 | 🐛 232 | 🌐 Objective-C | 📅 2026-01-02 - Sequel Ace is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
 
   <details>
   <summary>More</summary>
@@ -1645,7 +1645,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [DbGate](https://github.com/dbgate/dbgate) ⭐ 6,745 | 🐛 444 | 🌐 Svelte | 📅 2026-02-06 - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
+* [DbGate](https://github.com/dbgate/dbgate) ⭐ 6,747 | 🐛 445 | 🌐 Svelte | 📅 2026-02-06 - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
 
   <details>
   <summary>More</summary>
@@ -1890,7 +1890,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Stringz](https://github.com/mohakapt/Stringz) ⭐ 1,018 | 🐛 19 | 🌐 Swift | 📅 2024-03-03 - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
+* [Stringz](https://github.com/mohakapt/Stringz) ⭐ 1,020 | 🐛 19 | 🌐 Swift | 📅 2024-03-03 - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
 
   <details>
   <summary>More</summary>
@@ -1983,7 +1983,7 @@ You can see in which language an app is written. Currently there are following l
 
 #### 📦 Git (20)
 
-* [GitHub Desktop](https://github.com/desktop/desktop) ⭐ 21,175 | 🐛 966 | 🌐 TypeScript | 📅 2026-02-07 - Simple collaboration from your desktop.
+* [GitHub Desktop](https://github.com/desktop/desktop) ⭐ 21,179 | 🐛 966 | 🌐 TypeScript | 📅 2026-02-07 - Simple collaboration from your desktop.
 
   <details>
   <summary>More</summary>
@@ -2000,7 +2000,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [GitUp](https://github.com/git-up/GitUp) ⭐ 11,871 | 🐛 369 | 🌐 Objective-C | 📅 2026-01-20 - The Git interface you've been missing all your life has finally arrived.
+* [GitUp](https://github.com/git-up/GitUp) ⭐ 11,882 | 🐛 369 | 🌐 Objective-C | 📅 2026-01-20 - The Git interface you've been missing all your life has finally arrived.
 
   <details>
   <summary>More</summary>
@@ -2057,7 +2057,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Git Interactive Rebase Tool](https://github.com/MitMaro/git-interactive-rebase-tool) ⭐ 1,830 | 🐛 30 | 🌐 Rust | 📅 2026-02-04 - Full feature terminal based sequence editor for interactive rebase.
+* [Git Interactive Rebase Tool](https://github.com/MitMaro/git-interactive-rebase-tool) ⭐ 1,831 | 🐛 30 | 🌐 Rust | 📅 2026-02-04 - Full feature terminal based sequence editor for interactive rebase.
 
   <details>
   <summary>More</summary>
@@ -2133,7 +2133,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [GitX](https://github.com/gitx/gitx) ⭐ 870 | 🐛 75 | 🌐 Objective-C | 📅 2025-12-15 - Graphical client for the git version control system.
+* [GitX](https://github.com/gitx/gitx) ⭐ 871 | 🐛 75 | 🌐 Objective-C | 📅 2025-12-15 - Graphical client for the git version control system.
 
   <details>
   <summary>More</summary>
@@ -2387,7 +2387,7 @@ You can see in which language an app is written. Currently there are following l
 
 #### 🔧 Other Development (5)
 
-* [MQTTX](https://github.com/emqx/MQTTX) ⭐ 4,792 | 🐛 93 | 🌐 TypeScript | 📅 2026-02-03 - An elegant Cross-platform MQTT 5.0 desktop client.
+* [MQTTX](https://github.com/emqx/MQTTX) ⭐ 4,794 | 🐛 93 | 🌐 TypeScript | 📅 2026-02-03 - An elegant Cross-platform MQTT 5.0 desktop client.
 
   <details>
   <summary>More</summary>
@@ -2484,7 +2484,7 @@ You can see in which language an app is written. Currently there are following l
 
 #### 🌍 Web Development (15)
 
-* [Insomnia](https://github.com/Kong/insomnia) ⭐ 37,912 | 🐛 816 | 🌐 TypeScript | 📅 2026-02-06 - Insomnia is a cross-platform REST client, built on top of Electron.
+* [Insomnia](https://github.com/Kong/insomnia) ⭐ 37,915 | 🐛 815 | 🌐 TypeScript | 📅 2026-02-09 - Insomnia is a cross-platform REST client, built on top of Electron.
 
   <details>
   <summary>More</summary>
@@ -2501,7 +2501,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Requestly](https://github.com/requestly/requestly) ⭐ 6,219 | 🐛 318 | 🌐 TypeScript | 📅 2026-02-07 - A lightweight open-source API Development, Testing & Mocking platform
+* [Requestly](https://github.com/requestly/requestly) ⭐ 6,225 | 🐛 319 | 🌐 TypeScript | 📅 2026-02-09 - A lightweight open-source API Development, Testing & Mocking platform
 
   <details>
   <summary>More</summary>
@@ -2539,7 +2539,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [HTTP Toolkit](https://github.com/httptoolkit/httptoolkit-desktop) ⭐ 695 | 🐛 15 | 🌐 TypeScript | 📅 2026-01-29 - HTTP Toolkit is a cross-platform tool to intercept, debug & mock HTTP.
+* [HTTP Toolkit](https://github.com/httptoolkit/httptoolkit-desktop) ⭐ 696 | 🐛 15 | 🌐 TypeScript | 📅 2026-01-29 - HTTP Toolkit is a cross-platform tool to intercept, debug & mock HTTP.
 
   <details>
   <summary>More</summary>
@@ -2750,7 +2750,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Xcodes.app](https://github.com/RobotsAndPencils/XcodesApp) ⭐ 8,230 | 🐛 197 | 🌐 Swift | 📅 2025-09-20 - The easiest way to install and switch between multiple versions of Xcode.
+* [Xcodes.app](https://github.com/RobotsAndPencils/XcodesApp) ⭐ 8,229 | 🐛 197 | 🌐 Swift | 📅 2025-09-20 - The easiest way to install and switch between multiple versions of Xcode.
 
   <details>
   <summary>More</summary>
@@ -2767,7 +2767,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Knuff](https://github.com/KnuffApp/Knuff) ⭐ 5,237 | 🐛 21 | 🌐 Objective-C | 📅 2022-09-04 - The debug application for Apple Push Notification Service (APNs).
+* [Knuff](https://github.com/KnuffApp/Knuff) ⭐ 5,236 | 🐛 21 | 🌐 Objective-C | 📅 2022-09-04 - The debug application for Apple Push Notification Service (APNs).
 
   <details>
   <summary>More</summary>
@@ -2784,7 +2784,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [InjectionIII](https://github.com/johnno1962/InjectionIII) ⭐ 4,562 | 🐛 3 | 🌐 Objective-C | 📅 2026-01-19 - overdue Swift rewrite of Injection.
+* [InjectionIII](https://github.com/johnno1962/InjectionIII) ⭐ 4,563 | 🐛 3 | 🌐 Objective-C | 📅 2026-01-19 - overdue Swift rewrite of Injection.
 
   <details>
   <summary>More</summary>
@@ -2797,7 +2797,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer) ⭐ 2,772 | 🐛 13 | 🌐 Swift | 📅 2025-08-26 - App that lets you open .car files and browse/extract their images.
+* [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer) ⭐ 2,773 | 🐛 13 | 🌐 Swift | 📅 2025-08-26 - App that lets you open .car files and browse/extract their images.
 
   <details>
   <summary>More</summary>
@@ -2934,7 +2934,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Localization Editor](https://github.com/igorkulman/iOSLocalizationEditor) ⭐ 1,490 | 🐛 3 | 🌐 Swift | 📅 2024-04-05 - Simple macOS editor app to help you manage iOS app localizations by allowing you to edit all the translations side by side.
+* [Localization Editor](https://github.com/igorkulman/iOSLocalizationEditor) ⭐ 1,489 | 🐛 3 | 🌐 Swift | 📅 2024-04-05 - Simple macOS editor app to help you manage iOS app localizations by allowing you to edit all the translations side by side.
 
   <details>
   <summary>More</summary>
@@ -2966,7 +2966,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Attabench](https://github.com/attaswift/Attabench) ⭐ 1,278 | 🐛 5 | 🌐 Swift | 📅 2022-02-23 - Attabench is a microbenchmarking app for macOS, designed to measure and visualize the performance of Swift code.
+* [Attabench](https://github.com/attaswift/Attabench) ⭐ 1,277 | 🐛 5 | 🌐 Swift | 📅 2022-02-23 - Attabench is a microbenchmarking app for macOS, designed to measure and visualize the performance of Swift code.
 
   <details>
   <summary>More</summary>
@@ -2987,7 +2987,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [iSimulator](https://github.com/wigl/iSimulator) ⭐ 1,174 | 🐛 2 | 🌐 Swift | 📅 2023-10-21 - iSimulator is a GUI utility to control the Simulator and manage the app installed on the simulator.
+* [iSimulator](https://github.com/wigl/iSimulator) ⭐ 1,173 | 🐛 2 | 🌐 Swift | 📅 2023-10-21 - iSimulator is a GUI utility to control the Simulator and manage the app installed on the simulator.
 
   <details>
   <summary>More</summary>
@@ -3000,7 +3000,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Stringz](https://github.com/mohakapt/Stringz) ⭐ 1,018 | 🐛 19 | 🌐 Swift | 📅 2024-03-03 - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
+* [Stringz](https://github.com/mohakapt/Stringz) ⭐ 1,020 | 🐛 19 | 🌐 Swift | 📅 2024-03-03 - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
 
   <details>
   <summary>More</summary>
@@ -3119,7 +3119,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [PodsUpdater](https://github.com/kizitonwose/PodsUpdater) ⭐ 529 | 🐛 1 | 🌐 Swift | 📅 2019-03-17 - macOS app which helps you manage dependency releases in your Podfile.
+* [PodsUpdater](https://github.com/kizitonwose/PodsUpdater) ⭐ 528 | 🐛 1 | 🌐 Swift | 📅 2019-03-17 - macOS app which helps you manage dependency releases in your Podfile.
 
   <details>
   <summary>More</summary>
@@ -3219,7 +3219,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Iconology](https://github.com/liamrosenfeld/Iconology) ⭐ 151 | 🐛 3 | 🌐 Swift | 📅 2023-01-31 - Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection.
+* [Iconology](https://github.com/liamrosenfeld/Iconology) ⭐ 152 | 🐛 3 | 🌐 Swift | 📅 2023-01-31 - Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection.
 
   <details>
   <summary>More</summary>
@@ -3442,7 +3442,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### ⬇️ Downloader (7)
 
-* [Motrix](https://github.com/agalwood/Motrix) ⭐ 50,722 | 🐛 771 | 🌐 JavaScript | 📅 2024-07-11 - A full-featured download manager.
+* [Motrix](https://github.com/agalwood/Motrix) ⭐ 50,730 | 🐛 771 | 🌐 JavaScript | 📅 2024-07-11 - A full-featured download manager.
 
   <details>
   <summary>More</summary>
@@ -3467,7 +3467,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Extream Download Manager](https://github.com/subhra74/xdm) ⭐ 7,581 | 🐛 843 | 🌐 C# | 📅 2024-01-23 - a powerful tool to increase download speeds up to 500%
+* [Extream Download Manager](https://github.com/subhra74/xdm) ⭐ 7,582 | 🐛 843 | 🌐 C# | 📅 2024-01-23 - a powerful tool to increase download speeds up to 500%
 
   <details>
   <summary>More</summary>
@@ -3582,7 +3582,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Geany](https://github.com/geany/geany) ⭐ 3,527 | 🐛 1,186 | 🌐 C | 📅 2026-01-26 - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
+* [Geany](https://github.com/geany/geany) ⭐ 3,527 | 🐛 1,187 | 🌐 C | 📅 2026-01-26 - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
 
   <details>
   <summary>More</summary>
@@ -3706,7 +3706,7 @@ You can see in which language an app is written. Currently there are following l
 
 #### 📝 Markdown (10)
 
-* [Mark Text](https://github.com/marktext/marktext/) ⭐ 53,716 | 🐛 1,384 | 🌐 JavaScript | 📅 2025-11-19 - Realtime preview markdown editor for macOS Windows and Linux.
+* [Mark Text](https://github.com/marktext/marktext/) ⭐ 53,733 | 🐛 1,386 | 🌐 JavaScript | 📅 2025-11-19 - Realtime preview markdown editor for macOS Windows and Linux.
 
   <details>
   <summary>More</summary>
@@ -3719,7 +3719,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Obsidian plugins & themes](https://github.com/obsidianmd/obsidian-releases) ⭐ 14,679 | 🐛 1,102 | 📅 2026-02-08 - Community plugins list, theme list, and releases of Obsidian.
+* [Obsidian plugins & themes](https://github.com/obsidianmd/obsidian-releases) ⭐ 14,697 | 🐛 1,120 | 📅 2026-02-09 - Community plugins list, theme list, and releases of Obsidian.
 
   <details>
   <summary>More</summary>
@@ -3738,7 +3738,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Zettlr](https://github.com/Zettlr/Zettlr) ⭐ 12,510 | 🐛 522 | 🌐 TypeScript | 📅 2026-02-07 - A Markdown Editor for the 21st century.
+* [Zettlr](https://github.com/Zettlr/Zettlr) ⭐ 12,511 | 🐛 524 | 🌐 TypeScript | 📅 2026-02-07 - A Markdown Editor for the 21st century.
 
   <details>
   <summary>More</summary>
@@ -3757,7 +3757,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [MacDown](https://github.com/MacDownApp/macdown) ⭐ 9,673 | 🐛 555 | 🌐 Rich Text Format | 📅 2023-07-10 - Markdown editor for macOS.
+* [MacDown](https://github.com/MacDownApp/macdown) ⭐ 9,674 | 🐛 555 | 🌐 Rich Text Format | 📅 2023-07-10 - Markdown editor for macOS.
 
   <details>
   <summary>More</summary>
@@ -3770,7 +3770,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,580 | 🐛 166 | 🌐 C++ | 📅 2026-02-07 - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
+* [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,583 | 🐛 167 | 🌐 C++ | 📅 2026-02-08 - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 
   <details>
   <summary>More</summary>
@@ -3789,7 +3789,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) ⭐ 3,598 | 🐛 3 | 🌐 Swift | 📅 2026-02-06 - MarkEdit is a free and open-source Markdown editor, for macOS. It's just like TextEdit on Mac but dedicated to Markdown.
+* [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) ⭐ 3,604 | 🐛 3 | 🌐 Swift | 📅 2026-02-06 - MarkEdit is a free and open-source Markdown editor, for macOS. It's just like TextEdit on Mac but dedicated to Markdown.
 
   <details>
   <summary>More</summary>
@@ -3923,7 +3923,7 @@ You can see in which language an app is written. Currently there are following l
 
 #### ✏️ Text (11)
 
-* [micro](https://github.com/zyedidia/micro) ⭐ 27,888 | 🐛 992 | 🌐 Go | 📅 2026-02-08 - A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities of modern terminals.
+* [micro](https://github.com/zyedidia/micro) ⭐ 27,894 | 🐛 994 | 🌐 Go | 📅 2026-02-09 - A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities of modern terminals.
 
   <details>
   <summary>More</summary>
@@ -3948,7 +3948,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [TextMate](https://github.com/textmate/textmate) ⭐ 14,778 | 🐛 20 | 🌐 Objective-C++ | 📅 2024-05-18 - TextMate is a graphical text editor for macOS.
+* [TextMate](https://github.com/textmate/textmate) ⭐ 14,776 | 🐛 20 | 🌐 Objective-C++ | 📅 2024-05-18 - TextMate is a graphical text editor for macOS.
 
   <details>
   <summary>More</summary>
@@ -3978,7 +3978,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [CotEditor](https://github.com/coteditor/CotEditor) ⭐ 7,586 | 🐛 35 | 🌐 Swift | 📅 2026-02-06 - Lightweight Plain-Text Editor for macOS.
+* [CotEditor](https://github.com/coteditor/CotEditor) ⭐ 7,589 | 🐛 32 | 🌐 Swift | 📅 2026-02-08 - Lightweight Plain-Text Editor for macOS.
 
   <details>
   <summary>More</summary>
@@ -3995,7 +3995,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [VimR](https://github.com/qvacua/vimr) ⭐ 6,925 | 🐛 311 | 🌐 Swift | 📅 2026-01-29 - Refined Neovim experience for macOS.
+* [VimR](https://github.com/qvacua/vimr) ⭐ 6,925 | 🐛 312 | 🌐 Swift | 📅 2026-01-29 - Refined Neovim experience for macOS.
 
   <details>
   <summary>More</summary>
@@ -4008,7 +4008,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Geany](https://github.com/geany/geany) ⭐ 3,527 | 🐛 1,186 | 🌐 C | 📅 2026-01-26 - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
+* [Geany](https://github.com/geany/geany) ⭐ 3,527 | 🐛 1,187 | 🌐 C | 📅 2026-01-26 - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
 
   <details>
   <summary>More</summary>
@@ -4122,7 +4122,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🧩 Extensions (13)
 
-* [Middleclick](https://github.com/artginzburg/MiddleClick-Ventura) ⭐ 2,431 | 🐛 34 | 🌐 Swift | 📅 2025-12-03 - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse
+* [Middleclick](https://github.com/artginzburg/MiddleClick-Ventura) ⭐ 2,432 | 🐛 34 | 🌐 Swift | 📅 2025-12-03 - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse
 
   <details>
   <summary>More</summary>
@@ -4177,7 +4177,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [PiPifier](https://github.com/arnoappenzeller/PiPifier) ⭐ 793 | 🐛 59 | 🌐 Swift | 📅 2021-11-08 - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode.
+* [PiPifier](https://github.com/arnoappenzeller/PiPifier) ⭐ 794 | 🐛 59 | 🌐 Swift | 📅 2021-11-08 - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode.
 
   <details>
   <summary>More</summary>
@@ -4355,7 +4355,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🔍 Finder (11)
 
-* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 33,223 | 🐛 151 | 🌐 Rust | 📅 2026-02-07 - zoxide is a smarter cd command for your terminal.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 33,256 | 🐛 151 | 🌐 Rust | 📅 2026-02-07 - zoxide is a smarter cd command for your terminal.
 
   <details>
   <summary>More</summary>
@@ -4395,7 +4395,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [CopyQ](https://github.com/hluk/CopyQ) ⭐ 11,148 | 🐛 445 | 🌐 C++ | 📅 2026-02-07 - Clipboard manager with advanced features
+* [CopyQ](https://github.com/hluk/CopyQ) ⭐ 11,161 | 🐛 445 | 🌐 C++ | 📅 2026-02-07 - Clipboard manager with advanced features
 
   <details>
   <summary>More</summary>
@@ -4408,7 +4408,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Clipy](https://github.com/Clipy/Clipy) ⭐ 8,375 | 🐛 260 | 🌐 Swift | 📅 2024-06-29 - Clipy is a Clipboard extension app for macOS.
+* [Clipy](https://github.com/Clipy/Clipy) ⭐ 8,378 | 🐛 260 | 🌐 Swift | 📅 2024-06-29 - Clipy is a Clipboard extension app for macOS.
 
   <details>
   <summary>More</summary>
@@ -4427,7 +4427,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [dupeGuru](https://github.com/arsenetar/dupeguru/) ⭐ 7,279 | 🐛 509 | 🌐 Python | 📅 2026-01-06 - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents.
+* [dupeGuru](https://github.com/arsenetar/dupeguru/) ⭐ 7,280 | 🐛 510 | 🌐 Python | 📅 2026-01-06 - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents.
 
   <details>
   <summary>More</summary>
@@ -4442,7 +4442,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) ⭐ 6,675 | 🐛 39 | 🌐 Swift | 📅 2025-01-18 - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+* [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) ⭐ 6,678 | 🐛 39 | 🌐 Swift | 📅 2025-01-18 - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 
   <details>
   <summary>More</summary>
@@ -4487,7 +4487,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [OpenInCode](https://github.com/sozercan/OpenInCode) ⭐ 911 | 🐛 9 | 🌐 Objective-C | 📅 2022-03-30 - Finder toolbar app to open current folder in Visual Studio Code.
+* [OpenInCode](https://github.com/sozercan/OpenInCode) ⭐ 910 | 🐛 9 | 🌐 Objective-C | 📅 2022-03-30 - Finder toolbar app to open current folder in Visual Studio Code.
 
   <details>
   <summary>More</summary>
@@ -4523,7 +4523,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder) ⭐ 157 | 🐛 0 | 🌐 Swift | 📅 2021-08-08 - It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.
+* [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder) ⭐ 158 | 🐛 0 | 🌐 Swift | 📅 2021-08-08 - It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.
 
   <details>
   <summary>More</summary>
@@ -4546,7 +4546,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🎮 Games (11)
 
-* [OpenEmu](https://github.com/OpenEmu/OpenEmu) ⭐ 17,342 | 🐛 405 | 🌐 Swift | 📅 2025-10-22 - Retro video game emulation for macOS.
+* [OpenEmu](https://github.com/OpenEmu/OpenEmu) ⭐ 17,344 | 🐛 405 | 🌐 Swift | 📅 2025-10-22 - Retro video game emulation for macOS.
 
   <details>
   <summary>More</summary>
@@ -4563,7 +4563,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) ⭐ 15,182 | 🐛 1,602 | 🌐 C++ | 📅 2026-02-07 - Re-implementation of RollerCoaster Tycoon 2.
+* [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) ⭐ 15,185 | 🐛 1,599 | 🌐 C++ | 📅 2026-02-08 - Re-implementation of RollerCoaster Tycoon 2.
 
   <details>
   <summary>More</summary>
@@ -4580,7 +4580,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Dolphin](https://github.com/dolphin-emu/dolphin) ⭐ 14,595 | 🐛 367 | 🌐 C++ | 📅 2026-02-06 - Powerful emulator for Nintendo GameCube and Wii games.
+* [Dolphin](https://github.com/dolphin-emu/dolphin) ⭐ 14,601 | 🐛 370 | 🌐 C++ | 📅 2026-02-08 - Powerful emulator for Nintendo GameCube and Wii games.
 
   <details>
   <summary>More</summary>
@@ -4593,7 +4593,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Battle for Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 6,427 | 🐛 1,455 | 🌐 C++ | 📅 2026-02-08 - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat.
+* [Battle for Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 6,429 | 🐛 1,454 | 🌐 C++ | 📅 2026-02-09 - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat.
 
   <details>
   <summary>More</summary>
@@ -4606,7 +4606,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Widelands](https://github.com/widelands/widelands) ⭐ 2,182 | 🐛 567 | 🌐 C++ | 📅 2026-02-07 - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.
+* [Widelands](https://github.com/widelands/widelands) ⭐ 2,182 | 🐛 564 | 🌐 C++ | 📅 2026-02-09 - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.
 
   <details>
   <summary>More</summary>
@@ -4729,7 +4729,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🎨 Graphics (15)
 
-* [Aseprite](https://github.com/aseprite/aseprite) ⭐ 35,612 | 🐛 1,899 | 🌐 C++ | 📅 2025-12-30 - Animated sprite editor & pixel art tool (Windows, macOS, Linux).
+* [Aseprite](https://github.com/aseprite/aseprite) ⭐ 35,624 | 🐛 1,899 | 🌐 C++ | 📅 2025-12-30 - Animated sprite editor & pixel art tool (Windows, macOS, Linux).
 
   <details>
   <summary>More</summary>
@@ -4742,7 +4742,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [FreeCAD](https://github.com/FreeCAD/FreeCAD) ⭐ 28,503 | 🐛 3,620 | 🌐 C++ | 📅 2026-02-08 - FreeCAD is an open-source 3D parametric modeler
+* [FreeCAD](https://github.com/FreeCAD/FreeCAD) ⭐ 28,509 | 🐛 3,634 | 🌐 C++ | 📅 2026-02-09 - FreeCAD is an open-source 3D parametric modeler
 
   <details>
   <summary>More</summary>
@@ -4784,7 +4784,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Gaphor](https://github.com/gaphor/gaphor) ⭐ 2,189 | 🐛 197 | 🌐 Python | 📅 2026-02-04 - Gaphor is the simple modeling tool for UML and SysML.
+* [Gaphor](https://github.com/gaphor/gaphor) ⭐ 2,190 | 🐛 197 | 🌐 Python | 📅 2026-02-04 - Gaphor is the simple modeling tool for UML and SysML.
 
   <details>
   <summary>More</summary>
@@ -4799,7 +4799,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Pencil2D Animation](https://github.com/pencil2d/pencil) ⭐ 1,648 | 🐛 195 | 🌐 C++ | 📅 2026-02-01 - Pencil2D is an animation/drawing software for macOS, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics.
+* [Pencil2D Animation](https://github.com/pencil2d/pencil) ⭐ 1,649 | 🐛 195 | 🌐 C++ | 📅 2026-02-01 - Pencil2D is an animation/drawing software for macOS, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics.
 
   <details>
   <summary>More</summary>
@@ -5004,7 +5004,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 💻 IDE (12)
 
-* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 181,508 | 🐛 13,643 | 🌐 TypeScript | 📅 2026-02-08 - Code editor developed by Microsoft.
+* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 181,528 | 🐛 13,581 | 🌐 TypeScript | 📅 2026-02-09 - Code editor developed by Microsoft.
 
   <details>
   <summary>More</summary>
@@ -5040,7 +5040,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Vim](https://github.com/vim/vim) ⭐ 39,788 | 🐛 1,651 | 🌐 Vim Script | 📅 2026-02-07 - ubiquitous text editor
+* [Vim](https://github.com/vim/vim) ⭐ 39,792 | 🐛 1,653 | 🌐 Vim Script | 📅 2026-02-08 - ubiquitous text editor
 
   <details>
   <summary>More</summary>
@@ -5078,7 +5078,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community) ⭐ 19,669 | 🐛 152 | 🌐 Java | 📅 2026-02-07 - IntelliJ IDEA is an integrated development environment written in Java for developing computer software
+* [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community) ⭐ 19,674 | 🐛 153 | 🌐 Java | 📅 2026-02-09 - IntelliJ IDEA is an integrated development environment written in Java for developing computer software
 
   <details>
   <summary>More</summary>
@@ -5110,7 +5110,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Geany](https://github.com/geany/geany) ⭐ 3,527 | 🐛 1,186 | 🌐 C | 📅 2026-01-26 - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
+* [Geany](https://github.com/geany/geany) ⭐ 3,527 | 🐛 1,187 | 🌐 C | 📅 2026-01-26 - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
 
   <details>
   <summary>More</summary>
@@ -5150,7 +5150,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) ⭐ 2,738 | 🐛 110 | 🌐 Lua | 📅 2024-05-19 - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines.
+* [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) ⭐ 2,739 | 🐛 110 | 🌐 Lua | 📅 2024-05-19 - ZeroBrane Studio is a lightweight cross-platform Lua IDE with code completion, syntax highlighting, remote debugger, code analyzer, live coding, and debugging support for various Lua engines.
 
   <details>
   <summary>More</summary>
@@ -5226,7 +5226,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🖼️ Images (17)
 
-* [Flameshot](https://github.com/flameshot-org/flameshot) ⭐ 29,245 | 🐛 749 | 🌐 C++ | 📅 2026-02-07 - Powerful yet simple to use screenshot software.
+* [Flameshot](https://github.com/flameshot-org/flameshot) ⭐ 29,255 | 🐛 749 | 🌐 C++ | 📅 2026-02-07 - Powerful yet simple to use screenshot software.
 
   <details>
   <summary>More</summary>
@@ -5245,7 +5245,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Gimp](https://github.com/GNOME/gimp) ⭐ 5,957 | 🐛 0 | 🌐 C | 📅 2026-02-08 - Gimp is GNU Image Manipulation Program.
+* [Gimp](https://github.com/GNOME/gimp) ⭐ 5,958 | 🐛 0 | 🌐 C | 📅 2026-02-09 - Gimp is GNU Image Manipulation Program.
 
   <details>
   <summary>More</summary>
@@ -5258,7 +5258,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Imagine](https://github.com/meowtec/Imagine) ⭐ 4,323 | 🐛 61 | 🌐 TypeScript | 📅 2023-08-07 - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.
+* [Imagine](https://github.com/meowtec/Imagine) ⭐ 4,324 | 🐛 61 | 🌐 TypeScript | 📅 2023-08-07 - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.
 
   <details>
   <summary>More</summary>
@@ -5284,7 +5284,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [ExifCleaner](https://github.com/szTheory/exifcleaner) ⭐ 2,338 | 🐛 72 | 🌐 TypeScript | 📅 2026-01-22 - Remove image metadata with drag and drop, multi-core batch processing, and dark mode.
+* [ExifCleaner](https://github.com/szTheory/exifcleaner) ⭐ 2,339 | 🐛 72 | 🌐 TypeScript | 📅 2026-01-22 - Remove image metadata with drag and drop, multi-core batch processing, and dark mode.
 
   <details>
   <summary>More</summary>
@@ -5307,7 +5307,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [InVesalius](https://github.com/invesalius/invesalius3/) ⭐ 762 | 🐛 201 | 🌐 Python | 📅 2026-02-08 - 3D medical imaging reconstruction software
+* [InVesalius](https://github.com/invesalius/invesalius3/) ⭐ 762 | 🐛 203 | 🌐 Python | 📅 2026-02-09 - 3D medical imaging reconstruction software
 
   <details>
   <summary>More</summary>
@@ -5388,7 +5388,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Iconology](https://github.com/liamrosenfeld/Iconology) ⭐ 151 | 🐛 3 | 🌐 Swift | 📅 2023-01-31 - Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection.
+* [Iconology](https://github.com/liamrosenfeld/Iconology) ⭐ 152 | 🐛 3 | 🌐 Swift | 📅 2023-01-31 - Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection.
 
   <details>
   <summary>More</summary>
@@ -5517,7 +5517,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### ⌨️ Keyboard (9)
 
-* [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) ⭐ 21,473 | 🐛 522 | 🌐 C++ | 📅 2026-02-07 - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+* [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) ⭐ 21,482 | 🐛 512 | 🌐 C++ | 📅 2026-02-08 - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 
   <details>
   <summary>More</summary>
@@ -5530,7 +5530,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Keycastr](https://github.com/keycastr/keycastr) ⭐ 14,578 | 🐛 90 | 🌐 Objective-C | 📅 2025-12-07 - Keystroke visualizer.
+* [Keycastr](https://github.com/keycastr/keycastr) ⭐ 14,582 | 🐛 90 | 🌐 Objective-C | 📅 2025-12-07 - Keystroke visualizer.
 
   <details>
   <summary>More</summary>
@@ -5560,7 +5560,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Unshaky](https://github.com/aahung/Unshaky) ⭐ 3,073 | 🐛 18 | 🌐 Swift | 📅 2023-11-20 - A software attempt to address the "double key press" issue on Apple's butterfly keyboard
+* [Unshaky](https://github.com/aahung/Unshaky) ⭐ 3,072 | 🐛 18 | 🌐 Swift | 📅 2023-11-20 - A software attempt to address the "double key press" issue on Apple's butterfly keyboard
 
   <details>
   <summary>More</summary>
@@ -5594,7 +5594,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Kawa](https://github.com/hatashiro/kawa) ⭐ 1,519 | 🐛 7 | 🌐 Swift | 📅 2022-08-20 - Better input source switcher for macOS.
+* [Kawa](https://github.com/hatashiro/kawa) ⭐ 1,520 | 🐛 7 | 🌐 Swift | 📅 2022-08-20 - Better input source switcher for macOS.
 
   <details>
   <summary>More</summary>
@@ -5664,7 +5664,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 📧 Mail (7)
 
-* [Mailspring](https://github.com/Foundry376/Mailspring) ⭐ 17,195 | 🐛 16 | 🌐 JavaScript | 📅 2026-02-08 - 💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors
+* [Mailspring](https://github.com/Foundry376/Mailspring) ⭐ 17,201 | 🐛 15 | 🌐 JavaScript | 📅 2026-02-08 - 💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors
 
   <details>
   <summary>More</summary>
@@ -5781,7 +5781,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🏥 Medical (1)
 
-* [InVesalius](https://github.com/invesalius/invesalius3/) ⭐ 762 | 🐛 201 | 🌐 Python | 📅 2026-02-08 - 3D medical imaging reconstruction software
+* [InVesalius](https://github.com/invesalius/invesalius3/) ⭐ 762 | 🐛 203 | 🌐 Python | 📅 2026-02-09 - 3D medical imaging reconstruction software
 
   <details>
   <summary>More</summary>
@@ -5808,7 +5808,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 📊 Menubar (40)
 
-* [Stats](https://github.com/exelban/stats) ⭐ 36,288 | 🐛 30 | 🌐 Swift | 📅 2026-02-01 - macOS system monitor in your menu bar
+* [Stats](https://github.com/exelban/stats) ⭐ 36,333 | 🐛 30 | 🌐 Swift | 📅 2026-02-01 - macOS system monitor in your menu bar
 
   <details>
   <summary>More</summary>
@@ -5825,7 +5825,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [xbar](https://github.com/matryer/xbar) ⭐ 18,004 | 🐛 185 | 🌐 Go | 📅 2024-09-10 - Put the output from any script or program into your macOS Menu Bar.
+* [xbar](https://github.com/matryer/xbar) ⭐ 18,003 | 🐛 185 | 🌐 Go | 📅 2024-09-10 - Put the output from any script or program into your macOS Menu Bar.
 
   <details>
   <summary>More</summary>
@@ -5838,7 +5838,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Hidden Bar](https://github.com/dwarvesf/hidden) ⭐ 13,299 | 🐛 141 | 🌐 Swift | 📅 2025-11-06 - An ultra-light MacOS utility that helps hide menu bar icons
+* [Hidden Bar](https://github.com/dwarvesf/hidden) ⭐ 13,300 | 🐛 141 | 🌐 Swift | 📅 2025-11-06 - An ultra-light MacOS utility that helps hide menu bar icons
 
   <details>
   <summary>More</summary>
@@ -5855,7 +5855,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [eul](https://github.com/gao-sun/eul) ⭐ 9,791 | 🐛 69 | 🌐 Swift | 📅 2024-05-25 - macOS status monitoring app written in SwiftUI.
+* [eul](https://github.com/gao-sun/eul) ⭐ 9,792 | 🐛 69 | 🌐 Swift | 📅 2024-05-25 - macOS status monitoring app written in SwiftUI.
 
   <details>
   <summary>More</summary>
@@ -5872,7 +5872,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Dozer](https://github.com/Mortennn/Dozer) ⭐ 8,616 | 🐛 92 | 🌐 Swift | 📅 2023-11-30 - Hide MacOS menubar items.
+* [Dozer](https://github.com/Mortennn/Dozer) ⭐ 8,615 | 🐛 92 | 🌐 Swift | 📅 2023-11-30 - Hide MacOS menubar items.
 
   <details>
   <summary>More</summary>
@@ -5902,7 +5902,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [MeetingBar](https://github.com/leits/MeetingBar) ⭐ 5,107 | 🐛 96 | 🌐 Swift | 📅 2026-01-29 - Menu bar app for your calendar meetings
+* [MeetingBar](https://github.com/leits/MeetingBar) ⭐ 5,108 | 🐛 96 | 🌐 Swift | 📅 2026-01-29 - Menu bar app for your calendar meetings
 
   <details>
   <summary>More</summary>
@@ -5919,7 +5919,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Itsycal](https://github.com/sfsam/Itsycal) ⭐ 3,810 | 🐛 79 | 🌐 Objective-C | 📅 2025-12-14 - A tiny calendar for that lives in the Mac menu bar.
+* [Itsycal](https://github.com/sfsam/Itsycal) ⭐ 3,811 | 🐛 79 | 🌐 Objective-C | 📅 2025-12-14 - A tiny calendar for that lives in the Mac menu bar.
 
   <details>
   <summary>More</summary>
@@ -5938,7 +5938,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [SwiftBar](https://github.com/swiftbar/SwiftBar) ⭐ 3,717 | 🐛 21 | 🌐 Swift | 📅 2026-02-07 - Powerful macOS menu bar customization tool.
+* [SwiftBar](https://github.com/swiftbar/SwiftBar) ⭐ 3,716 | 🐛 21 | 🌐 Swift | 📅 2026-02-07 - Powerful macOS menu bar customization tool.
 
   <details>
   <summary>More</summary>
@@ -5979,7 +5979,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [MiniSim](https://github.com/okwasniewski/MiniSim) ⭐ 2,309 | 🐛 14 | 🌐 Swift | 📅 2026-01-18 - MacOS menu bar app for launching iOS  and Android 🤖 emulators.
+* [MiniSim](https://github.com/okwasniewski/MiniSim) ⭐ 2,310 | 🐛 14 | 🌐 Swift | 📅 2026-01-18 - MacOS menu bar app for launching iOS  and Android 🤖 emulators.
 
   <details>
   <summary>More</summary>
@@ -5998,7 +5998,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Pika](https://github.com/superhighfives/pika) ⭐ 2,280 | 🐛 16 | 🌐 Swift | 📅 2026-01-26 - Is an easy to use, open-source, native colour picker for macOS.
+* [Pika](https://github.com/superhighfives/pika) ⭐ 2,281 | 🐛 16 | 🌐 Swift | 📅 2026-01-26 - Is an easy to use, open-source, native colour picker for macOS.
 
   <details>
   <summary>More</summary>
@@ -6017,7 +6017,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons) ⭐ 2,052 | 🐛 52 | 🌐 C | 📅 2024-02-17 - Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps.
+* [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons) ⭐ 2,054 | 🐛 52 | 🌐 C | 📅 2024-02-17 - Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps.
 
   <details>
   <summary>More</summary>
@@ -6109,7 +6109,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [TimeScribe](https://github.com/WINBIGFOX/timescribe) ⭐ 708 | 🐛 10 | 🌐 PHP | 📅 2026-02-01 - Simple and free working time recording.
+* [TimeScribe](https://github.com/WINBIGFOX/timescribe) ⭐ 709 | 🐛 8 | 🌐 PHP | 📅 2026-02-08 - Simple and free working time recording.
 
   <details>
   <summary>More</summary>
@@ -6215,7 +6215,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) ⭐ 423 | 🐛 10 | 🌐 Swift | 📅 2026-01-30 - A MenuBar app to automatically audit your Mac for basic security hygiene.
+* [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) ⭐ 425 | 🐛 11 | 🌐 Swift | 📅 2026-01-30 - A MenuBar app to automatically audit your Mac for basic security hygiene.
 
   <details>
   <summary>More</summary>
@@ -6268,7 +6268,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [BarTranslate](https://github.com/ThijmenDam/BarTranslate) ⭐ 225 | 🐛 15 | 🌐 Swift | 📅 2025-12-30 - A handy menu bar translator app that supports DeepL and Google Translate.
+* [BarTranslate](https://github.com/ThijmenDam/BarTranslate) ⭐ 226 | 🐛 15 | 🌐 Swift | 📅 2025-12-30 - A handy menu bar translator app that supports DeepL and Google Translate.
 
   <details>
   <summary>More</summary>
@@ -6464,7 +6464,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🎧 Music (15)
 
-* [MPV](https://github.com/mpv-player/mpv) ⭐ 33,940 | 🐛 1,079 | 🌐 C | 📅 2026-02-08 - Lightweight, highly configurable media player.
+* [MPV](https://github.com/mpv-player/mpv) ⭐ 33,950 | 🐛 1,077 | 🌐 C | 📅 2026-02-08 - Lightweight, highly configurable media player.
 
   <details>
   <summary>More</summary>
@@ -6483,7 +6483,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [spicetify-cli](https://github.com/spicetify/spicetify-cli) ⭐ 22,086 | 🐛 13 | 🌐 JavaScript | 📅 2026-01-31 - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.
+* [spicetify-cli](https://github.com/spicetify/spicetify-cli) ⭐ 22,092 | 🐛 13 | 🌐 JavaScript | 📅 2026-01-31 - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.
 
   <details>
   <summary>More</summary>
@@ -6557,7 +6557,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Karaoke Forever](https://github.com/bhj/KaraokeEternal) ⭐ 681 | 🐛 8 | 🌐 TypeScript | 📅 2026-02-06 - Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.
+* [Karaoke Forever](https://github.com/bhj/KaraokeEternal) ⭐ 681 | 🐛 8 | 🌐 TypeScript | 📅 2026-02-08 - Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.
 
   <details>
   <summary>More</summary>
@@ -6729,7 +6729,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 📰 News (6)
 
-* [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) ⭐ 9,593 | 🐛 859 | 🌐 Swift | 📅 2026-02-04 - Feed reader for macOS.
+* [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) ⭐ 9,604 | 🐛 862 | 🌐 Swift | 📅 2026-02-04 - Feed reader for macOS.
 
   <details>
   <summary>More</summary>
@@ -6767,7 +6767,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Vienna](https://github.com/ViennaRSS/vienna-rss) ⭐ 1,946 | 🐛 73 | 🌐 Objective-C | 📅 2026-02-06 - Vienna is a RSS/Atom newsreader for macOS.
+* [Vienna](https://github.com/ViennaRSS/vienna-rss) ⭐ 1,946 | 🐛 72 | 🌐 Objective-C | 📅 2026-02-08 - Vienna is a RSS/Atom newsreader for macOS.
 
   <details>
   <summary>More</summary>
@@ -6837,7 +6837,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 📔 Notes (16)
 
-* [joplin](https://github.com/laurent22/joplin) ⭐ 53,360 | 🐛 653 | 🌐 TypeScript | 📅 2026-02-07 - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+* [joplin](https://github.com/laurent22/joplin) ⭐ 53,372 | 🐛 655 | 🌐 TypeScript | 📅 2026-02-08 - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 
   <details>
   <summary>More</summary>
@@ -6850,7 +6850,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Boostnote](https://github.com/BoostIO/BoostNote-Legacy) ⭐ 16,977 | 🐛 505 | 🌐 JavaScript | 📅 2023-04-19 - Note-taking application made for programmers just like you.
+* [Boostnote](https://github.com/BoostIO/BoostNote-Legacy) ⭐ 16,976 | 🐛 505 | 🌐 JavaScript | 📅 2023-04-19 - Note-taking application made for programmers just like you.
 
   <details>
   <summary>More</summary>
@@ -6867,7 +6867,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [FSNotes](https://github.com/glushchenko/fsnotes) ⭐ 7,215 | 🐛 3 | 🌐 Swift | 📅 2026-01-31 - Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids.
+* [FSNotes](https://github.com/glushchenko/fsnotes) ⭐ 7,216 | 🐛 3 | 🌐 Swift | 📅 2026-02-08 - Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids.
 
   <details>
   <summary>More</summary>
@@ -6886,7 +6886,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Standard Notes](https://github.com/standardnotes/app) ⭐ 6,260 | 🐛 89 | 🌐 TypeScript | 📅 2026-02-07 - Safe place for your notes, thoughts, and life's work.
+* [Standard Notes](https://github.com/standardnotes/app) ⭐ 6,264 | 🐛 89 | 🌐 TypeScript | 📅 2026-02-07 - Safe place for your notes, thoughts, and life's work.
 
   <details>
   <summary>More</summary>
@@ -6899,7 +6899,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,580 | 🐛 166 | 🌐 C++ | 📅 2026-02-07 - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
+* [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,583 | 🐛 167 | 🌐 C++ | 📅 2026-02-08 - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 
   <details>
   <summary>More</summary>
@@ -6988,7 +6988,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app) ⭐ 779 | 🐛 9 | 🌐 Swift | 📅 2023-12-15 - Notebook viewer for macOS.
+* [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app) ⭐ 778 | 🐛 9 | 🌐 Swift | 📅 2023-12-15 - Notebook viewer for macOS.
 
   <details>
   <summary>More</summary>
@@ -7152,7 +7152,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [ImageOptim](https://github.com/ImageOptim/ImageOptim) ⭐ 9,727 | 🐛 195 | 🌐 HTML | 📅 2023-10-29 - GUI image optimizer for Mac.
+* [ImageOptim](https://github.com/ImageOptim/ImageOptim) ⭐ 9,728 | 🐛 195 | 🌐 HTML | 📅 2023-10-29 - GUI image optimizer for Mac.
 
   <details>
   <summary>More</summary>
@@ -7178,7 +7178,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Cakebrew](https://github.com/brunophilipe/Cakebrew) ⭐ 5,005 | 🐛 70 | 🌐 Objective-C | 📅 2024-01-07 - Manage your Homebrew formulas with style using Cakebrew.
+* [Cakebrew](https://github.com/brunophilipe/Cakebrew) ⭐ 5,004 | 🐛 70 | 🌐 Objective-C | 📅 2024-01-07 - Manage your Homebrew formulas with style using Cakebrew.
 
   <details>
   <summary>More</summary>
@@ -7195,7 +7195,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Shuttle](https://github.com/fitztrev/shuttle) ⭐ 4,586 | 🐛 40 | 🌐 Objective-C | 📅 2021-12-22 - Simple SSH shortcut menu for macOS.
+* [Shuttle](https://github.com/fitztrev/shuttle) ⭐ 4,587 | 🐛 40 | 🌐 Objective-C | 📅 2021-12-22 - Simple SSH shortcut menu for macOS.
 
   <details>
   <summary>More</summary>
@@ -7225,7 +7225,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [syncthing-macosx](https://github.com/syncthing/syncthing-macos) ⭐ 3,452 | 🐛 44 | 🌐 Objective-C | 📅 2026-01-21 - Frugal nativemacOS macOS Syncthing application bundle.
+* [syncthing-macosx](https://github.com/syncthing/syncthing-macos) ⭐ 3,453 | 🐛 44 | 🌐 Objective-C | 📅 2026-01-21 - Frugal nativemacOS macOS Syncthing application bundle.
 
   <details>
   <summary>More</summary>
@@ -7255,7 +7255,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Betaflight Configurator](https://github.com/betaflight/betaflight-configurator) ⭐ 3,057 | 🐛 46 | 🌐 JavaScript | 📅 2026-02-05 - Cross platform configuration tool for the Betaflight firmware.
+* [Betaflight Configurator](https://github.com/betaflight/betaflight-configurator) ⭐ 3,056 | 🐛 48 | 🌐 JavaScript | 📅 2026-02-09 - Cross platform configuration tool for the Betaflight firmware.
 
   <details>
   <summary>More</summary>
@@ -7304,7 +7304,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Unused](https://github.com/jeffhodnett/Unused) ⭐ 1,374 | 🐛 9 | 🌐 Objective-C | 📅 2018-06-19 - Mac app for checking Xcode projects for unused resources.
+* [Unused](https://github.com/jeffhodnett/Unused) ⭐ 1,373 | 🐛 9 | 🌐 Objective-C | 📅 2018-06-19 - Mac app for checking Xcode projects for unused resources.
 
   <details>
   <summary>More</summary>
@@ -7455,7 +7455,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### ▶️ Player (6)
 
-* [IINA](https://github.com/iina/iina) ⭐ 43,718 | 🐛 1,939 | 🌐 Swift | 📅 2026-02-03 - The modern video player for macOS.
+* [IINA](https://github.com/iina/iina) ⭐ 43,734 | 🐛 1,940 | 🌐 Swift | 📅 2026-02-08 - The modern video player for macOS.
 
   <details>
   <summary>More</summary>
@@ -7470,7 +7470,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [MPV](https://github.com/mpv-player/mpv) ⭐ 33,940 | 🐛 1,079 | 🌐 C | 📅 2026-02-08 - Lightweight, highly configurable media player.
+* [MPV](https://github.com/mpv-player/mpv) ⭐ 33,950 | 🐛 1,077 | 🌐 C | 📅 2026-02-08 - Lightweight, highly configurable media player.
 
   <details>
   <summary>More</summary>
@@ -7601,7 +7601,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [gPodder](https://github.com/gpodder/gpodder) ⭐ 1,420 | 🐛 345 | 🌐 Python | 📅 2026-01-22 - gPodder is a simple, open source podcast client.
+* [gPodder](https://github.com/gpodder/gpodder) ⭐ 1,420 | 🐛 344 | 🌐 Python | 📅 2026-02-09 - gPodder is a simple, open source podcast client.
 
   <details>
   <summary>More</summary>
@@ -7690,7 +7690,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### ⏱️ Productivity (57)
 
-* [Ice](https://github.com/jordanbaird/Ice) ⭐ 25,853 | 🐛 341 | 🌐 Swift | 📅 2025-09-20 - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
+* [Ice](https://github.com/jordanbaird/Ice) ⭐ 25,877 | 🐛 341 | 🌐 Swift | 📅 2025-09-20 - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
 
   <details>
   <summary>More</summary>
@@ -7711,7 +7711,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Maccy](https://github.com/p0deje/Maccy) ⭐ 18,531 | 🐛 128 | 🌐 Swift | 📅 2025-12-19 - Lightweight search-as-you-type clipboard manager.
+* [Maccy](https://github.com/p0deje/Maccy) ⭐ 18,544 | 🐛 131 | 🌐 Swift | 📅 2026-02-08 - Lightweight search-as-you-type clipboard manager.
 
   <details>
   <summary>More</summary>
@@ -7728,7 +7728,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Super Productivity](https://github.com/johannesjo/super-productivity) ⭐ 17,378 | 🐛 770 | 🌐 TypeScript | 📅 2026-02-07 - Free to do list & time tracker for programmers & designers with Jira integration.
+* [Super Productivity](https://github.com/johannesjo/super-productivity) ⭐ 17,391 | 🐛 767 | 🌐 TypeScript | 📅 2026-02-09 - Free to do list & time tracker for programmers & designers with Jira integration.
 
   <details>
   <summary>More</summary>
@@ -7747,7 +7747,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [espanso](https://github.com/espanso/espanso) ⭐ 13,065 | 🐛 481 | 🌐 Rust | 📅 2026-02-08 - Cross-platform Text Expander, a powerful replacement for Alfred Snippets
+* [espanso](https://github.com/espanso/espanso) ⭐ 13,077 | 🐛 481 | 🌐 Rust | 📅 2026-02-08 - Cross-platform Text Expander, a powerful replacement for Alfred Snippets
 
   <details>
   <summary>More</summary>
@@ -7766,7 +7766,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Cerebro](https://github.com/cerebroapp/cerebro) ⭐ 8,528 | 🐛 78 | 🌐 JavaScript | 📅 2026-02-07 - Cross-platform launcher app.
+* [Cerebro](https://github.com/cerebroapp/cerebro) ⭐ 8,528 | 🐛 76 | 🌐 JavaScript | 📅 2026-02-08 - Cross-platform launcher app.
 
   <details>
   <summary>More</summary>
@@ -7779,7 +7779,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [stretchly](https://github.com/hovancik/stretchly) ⭐ 5,687 | 🐛 97 | 🌐 JavaScript | 📅 2026-02-05 - Cross-platform electron app that reminds you to take breaks when working with computer.
+* [stretchly](https://github.com/hovancik/stretchly) ⭐ 5,689 | 🐛 97 | 🌐 JavaScript | 📅 2026-02-05 - Cross-platform electron app that reminds you to take breaks when working with computer.
 
   <details>
   <summary>More</summary>
@@ -7792,7 +7792,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,580 | 🐛 166 | 🌐 C++ | 📅 2026-02-07 - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
+* [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,583 | 🐛 167 | 🌐 C++ | 📅 2026-02-08 - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 
   <details>
   <summary>More</summary>
@@ -7824,7 +7824,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [MeetingBar](https://github.com/leits/MeetingBar) ⭐ 5,107 | 🐛 96 | 🌐 Swift | 📅 2026-01-29 - Menu bar app for your calendar meetings
+* [MeetingBar](https://github.com/leits/MeetingBar) ⭐ 5,108 | 🐛 96 | 🌐 Swift | 📅 2026-01-29 - Menu bar app for your calendar meetings
 
   <details>
   <summary>More</summary>
@@ -7879,7 +7879,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [SelfControl](https://github.com/SelfControlApp/selfcontrol) ⭐ 4,306 | 🐛 301 | 🌐 Objective-C | 📅 2025-12-29 - macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.
+* [SelfControl](https://github.com/SelfControlApp/selfcontrol) ⭐ 4,308 | 🐛 301 | 🌐 Objective-C | 📅 2025-12-29 - macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.
 
   <details>
   <summary>More</summary>
@@ -7915,7 +7915,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Itsycal](https://github.com/sfsam/Itsycal) ⭐ 3,810 | 🐛 79 | 🌐 Objective-C | 📅 2025-12-14 - A tiny calendar for that lives in the Mac menu bar.
+* [Itsycal](https://github.com/sfsam/Itsycal) ⭐ 3,811 | 🐛 79 | 🌐 Objective-C | 📅 2025-12-14 - A tiny calendar for that lives in the Mac menu bar.
 
   <details>
   <summary>More</summary>
@@ -7934,7 +7934,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [TomatoBar](https://github.com/ivoronin/TomatoBar) ⭐ 3,120 | 🐛 43 | 🌐 Swift | 📅 2024-08-02 - Pomodoro Technique Timer for macOS with Touch Bar support.
+* [TomatoBar](https://github.com/ivoronin/TomatoBar) ⭐ 3,122 | 🐛 37 | 🌐 Swift | 📅 2026-02-08 - Pomodoro Technique Timer for macOS with Touch Bar support.
 
   <details>
   <summary>More</summary>
@@ -7947,7 +7947,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Quicksilver](https://github.com/quicksilver/Quicksilver) ⭐ 2,848 | 🐛 70 | 🌐 Objective-C | 📅 2026-02-07 - Quicksilver is a fast macOS productivity application that gives you the power to control your Mac quickly and elegantly.
+* [Quicksilver](https://github.com/quicksilver/Quicksilver) ⭐ 2,848 | 🐛 70 | 🌐 Objective-C | 📅 2026-02-08 - Quicksilver is a fast macOS productivity application that gives you the power to control your Mac quickly and elegantly.
 
   <details>
   <summary>More</summary>
@@ -7998,7 +7998,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Flycut](https://github.com/TermiT/flycut) ⭐ 2,656 | 🐛 133 | 🌐 Objective-C | 📅 2022-12-23 - Clean and simple clipboard manager for developers.
+* [Flycut](https://github.com/TermiT/flycut) ⭐ 2,657 | 🐛 133 | 🌐 Objective-C | 📅 2022-12-23 - Clean and simple clipboard manager for developers.
 
   <details>
   <summary>More</summary>
@@ -8030,7 +8030,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Middleclick](https://github.com/artginzburg/MiddleClick-Ventura) ⭐ 2,431 | 🐛 34 | 🌐 Swift | 📅 2025-12-03 - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse
+* [Middleclick](https://github.com/artginzburg/MiddleClick-Ventura) ⭐ 2,432 | 🐛 34 | 🌐 Swift | 📅 2025-12-03 - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse
 
   <details>
   <summary>More</summary>
@@ -8047,7 +8047,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Ao](https://github.com/klaudiosinani/ao) ⭐ 2,179 | 🐛 120 | 🌐 JavaScript | 📅 2025-11-03 - Elegant Microsoft To-Do desktop app.
+* [Ao](https://github.com/klaudiosinani/ao) ⭐ 2,180 | 🐛 120 | 🌐 JavaScript | 📅 2025-11-03 - Elegant Microsoft To-Do desktop app.
 
   <details>
   <summary>More</summary>
@@ -8169,7 +8169,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [TimeScribe](https://github.com/WINBIGFOX/timescribe) ⭐ 708 | 🐛 10 | 🌐 PHP | 📅 2026-02-01 - Simple and free working time recording.
+* [TimeScribe](https://github.com/WINBIGFOX/timescribe) ⭐ 709 | 🐛 8 | 🌐 PHP | 📅 2026-02-08 - Simple and free working time recording.
 
   <details>
   <summary>More</summary>
@@ -8194,7 +8194,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Kiwix](https://github.com/kiwix/apple) ⭐ 681 | 🐛 38 | 🌐 Swift | 📅 2026-02-07 - Kiwix for iOS and macOS, build on Swift.
+* [Kiwix](https://github.com/kiwix/apple) ⭐ 681 | 🐛 36 | 🌐 Swift | 📅 2026-02-08 - Kiwix for iOS and macOS, build on Swift.
 
   <details>
   <summary>More</summary>
@@ -8239,7 +8239,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Thyme](https://github.com/joaomoreno/thyme) ⭐ 582 | 🐛 15 | 🌐 Objective-C | 📅 2020-01-31 - The task timer for OS X.
+* [Thyme](https://github.com/joaomoreno/thyme) ⭐ 583 | 🐛 15 | 🌐 Objective-C | 📅 2020-01-31 - The task timer for OS X.
 
   <details>
   <summary>More</summary>
@@ -8670,7 +8670,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) ⭐ 5,624 | 🐛 29 | 🌐 Swift | 📅 2024-10-09 - Screensaver inspired by Apple's Event on October 30, 2018.
+* [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) ⭐ 5,625 | 🐛 29 | 🌐 Swift | 📅 2024-10-09 - Screensaver inspired by Apple's Event on October 30, 2018.
 
   <details>
   <summary>More</summary>
@@ -8841,7 +8841,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🔒 Security (9)
 
-* [Cryptomator](https://github.com/cryptomator/cryptomator) ⭐ 14,560 | 🐛 293 | 🌐 Java | 📅 2026-02-07 - Multi-platform transparent client-side encryption of your files in the cloud.
+* [Cryptomator](https://github.com/cryptomator/cryptomator) ⭐ 14,570 | 🐛 294 | 🌐 Java | 📅 2026-02-09 - Multi-platform transparent client-side encryption of your files in the cloud.
 
   <details>
   <summary>More</summary>
@@ -8856,7 +8856,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [LuLu](https://github.com/objective-see/LuLu) ⭐ 11,967 | 🐛 480 | 🌐 Objective-C | 📅 2026-02-01 - LuLu is macOS firewall application that aims to block unauthorized (outgoing) network traffic.
+* [LuLu](https://github.com/objective-see/LuLu) ⭐ 11,972 | 🐛 480 | 🌐 Objective-C | 📅 2026-02-01 - LuLu is macOS firewall application that aims to block unauthorized (outgoing) network traffic.
 
   <details>
   <summary>More</summary>
@@ -8869,7 +8869,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [VeraCrypt](https://github.com/veracrypt/VeraCrypt) ⭐ 9,170 | 🐛 502 | 🌐 C | 📅 2025-09-30 - Disk encryption with strong security based on TrueCrypt.
+* [VeraCrypt](https://github.com/veracrypt/VeraCrypt) ⭐ 9,175 | 🐛 503 | 🌐 C | 📅 2025-09-30 - Disk encryption with strong security based on TrueCrypt.
 
   <details>
   <summary>More</summary>
@@ -8943,7 +8943,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) ⭐ 423 | 🐛 10 | 🌐 Swift | 📅 2026-01-30 - A MenuBar app to automatically audit your Mac for basic security hygiene.
+* [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) ⭐ 425 | 🐛 11 | 🌐 Swift | 📅 2026-01-30 - A MenuBar app to automatically audit your Mac for basic security hygiene.
 
   <details>
   <summary>More</summary>
@@ -8998,7 +8998,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 📤 Sharing Files (9)
 
-* [qBittorrent](https://github.com/qbittorrent/qBittorrent) ⭐ 35,405 | 🐛 2,483 | 🌐 C++ | 📅 2026-02-07 - BitTorrent client in Qt.
+* [qBittorrent](https://github.com/qbittorrent/qBittorrent) ⭐ 35,428 | 🐛 2,474 | 🌐 C++ | 📅 2026-02-08 - BitTorrent client in Qt.
 
   <details>
   <summary>More</summary>
@@ -9011,7 +9011,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Transmission](https://github.com/transmission/transmission) ⭐ 14,226 | 🐛 854 | 🌐 C++ | 📅 2026-02-06 - Official Transmission BitTorrent client repository.
+* [Transmission](https://github.com/transmission/transmission) ⭐ 14,232 | 🐛 858 | 🌐 C++ | 📅 2026-02-06 - Official Transmission BitTorrent client repository.
 
   <details>
   <summary>More</summary>
@@ -9024,7 +9024,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Tribler](https://github.com/Tribler/tribler) ⭐ 5,151 | 🐛 102 | 🌐 Python | 📅 2026-02-05 - Privacy enhanced BitTorrent client with P2P content discovery.
+* [Tribler](https://github.com/Tribler/tribler) ⭐ 5,153 | 🐛 102 | 🌐 Python | 📅 2026-02-05 - Privacy enhanced BitTorrent client with P2P content discovery.
 
   <details>
   <summary>More</summary>
@@ -9037,7 +9037,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Cyberduck](https://github.com/iterate-ch/cyberduck) ⭐ 4,229 | 🐛 502 | 🌐 Java | 📅 2026-02-05 - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
+* [Cyberduck](https://github.com/iterate-ch/cyberduck) ⭐ 4,231 | 🐛 503 | 🌐 Java | 📅 2026-02-08 - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
 
   <details>
   <summary>More</summary>
@@ -9071,7 +9071,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [NitroShare](https://github.com/nitroshare/nitroshare-desktop) ⭐ 1,656 | 🐛 138 | 🌐 C++ | 📅 2025-07-12 - Transferring files from one device to another
+* [NitroShare](https://github.com/nitroshare/nitroshare-desktop) ⭐ 1,657 | 🐛 138 | 🌐 C++ | 📅 2025-07-12 - Transferring files from one device to another
 
   <details>
   <summary>More</summary>
@@ -9146,7 +9146,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [RedditOS](https://github.com/Dimillian/RedditOS) ⭐ 4,027 | 🐛 20 | 🌐 Swift | 📅 2023-10-23 - A SwiftUI Reddit client for macOS.
+* [RedditOS](https://github.com/Dimillian/RedditOS) ⭐ 4,028 | 🐛 20 | 🌐 Swift | 📅 2023-10-23 - A SwiftUI Reddit client for macOS.
 
   <details>
   <summary>More</summary>
@@ -9193,7 +9193,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Goofy](https://github.com/danielbuechele/goofy) ⭐ 973 | 🐛 0 | 🌐 Swift | 📅 2026-02-06 - Unofficial Facebook Messenger client.
+* [Goofy](https://github.com/danielbuechele/goofy) ⭐ 974 | 🐛 0 | 🌐 Swift | 📅 2026-02-06 - Unofficial Facebook Messenger client.
 
   <details>
   <summary>More</summary>
@@ -9274,7 +9274,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 📡 Streaming (3)
 
-* [OBS Studio](https://github.com/obsproject/obs-studio) ⭐ 70,230 | 🐛 1,071 | 🌐 C | 📅 2026-02-07 - Free and open source software for live streaming and screen recording.
+* [OBS Studio](https://github.com/obsproject/obs-studio) ⭐ 70,259 | 🐛 1,072 | 🌐 C | 📅 2026-02-07 - Free and open source software for live streaming and screen recording.
 
   <details>
   <summary>More</summary>
@@ -9327,7 +9327,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### ⚙️ System (23)
 
-* [Stats](https://github.com/exelban/stats) ⭐ 36,288 | 🐛 30 | 🌐 Swift | 📅 2026-02-01 - macOS system monitor in your menu bar
+* [Stats](https://github.com/exelban/stats) ⭐ 36,333 | 🐛 30 | 🌐 Swift | 📅 2026-02-01 - macOS system monitor in your menu bar
 
   <details>
   <summary>More</summary>
@@ -9344,7 +9344,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [eul](https://github.com/gao-sun/eul) ⭐ 9,791 | 🐛 69 | 🌐 Swift | 📅 2024-05-25 - macOS status monitoring app written in SwiftUI.
+* [eul](https://github.com/gao-sun/eul) ⭐ 9,792 | 🐛 69 | 🌐 Swift | 📅 2024-05-25 - macOS status monitoring app written in SwiftUI.
 
   <details>
   <summary>More</summary>
@@ -9361,7 +9361,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Sloth](https://github.com/sveinbjornt/Sloth) ⭐ 8,820 | 🐛 3 | 🌐 Objective-C | 📅 2025-11-16 - Sloth is an macOS application that displays a list of all open files and sockets in use by all running applications on your system.
+* [Sloth](https://github.com/sveinbjornt/Sloth) ⭐ 8,821 | 🐛 3 | 🌐 Objective-C | 📅 2025-11-16 - Sloth is an macOS application that displays a list of all open files and sockets in use by all running applications on your system.
 
   <details>
   <summary>More</summary>
@@ -9382,7 +9382,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) ⭐ 6,247 | 🐛 35 | 🌐 Objective-C | 📅 2025-10-30 - Prevents your Mac from going to sleep.
+* [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) ⭐ 6,249 | 🐛 35 | 🌐 Objective-C | 📅 2025-10-30 - Prevents your Mac from going to sleep.
 
   <details>
   <summary>More</summary>
@@ -9399,7 +9399,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Latest](https://github.com/mangerlahn/Latest) ⭐ 4,402 | 🐛 123 | 🌐 Swift | 📅 2025-11-21 - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
+* [Latest](https://github.com/mangerlahn/Latest) ⭐ 4,403 | 🐛 123 | 🌐 Swift | 📅 2025-11-21 - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 
   <details>
   <summary>More</summary>
@@ -9722,7 +9722,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 📺 Terminal (13)
 
-* [Alacritty](https://github.com/alacritty/alacritty) ⭐ 62,322 | 🐛 331 | 🌐 Rust | 📅 2026-01-29 - Cross-platform, GPU-accelerated terminal emulator.
+* [Alacritty](https://github.com/alacritty/alacritty) ⭐ 62,341 | 🐛 331 | 🌐 Rust | 📅 2026-01-29 - Cross-platform, GPU-accelerated terminal emulator.
 
   <details>
   <summary>More</summary>
@@ -9739,7 +9739,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Hyper](https://github.com/vercel/hyper) ⭐ 44,689 | 🐛 1,022 | 🌐 TypeScript | 📅 2024-08-14 - Terminal built on web technologies.
+* [Hyper](https://github.com/vercel/hyper) ⭐ 44,692 | 🐛 1,022 | 🌐 TypeScript | 📅 2024-08-14 - Terminal built on web technologies.
 
   <details>
   <summary>More</summary>
@@ -9756,7 +9756,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 33,223 | 🐛 151 | 🌐 Rust | 📅 2026-02-07 - zoxide is a smarter cd command for your terminal.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 33,256 | 🐛 151 | 🌐 Rust | 📅 2026-02-07 - zoxide is a smarter cd command for your terminal.
 
   <details>
   <summary>More</summary>
@@ -9773,7 +9773,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Kitty](https://github.com/kovidgoyal/kitty) ⭐ 31,138 | 🐛 24 | 🌐 Python | 📅 2026-02-08 - Cross-platform, fast, feature full, GPU based terminal emulator.
+* [Kitty](https://github.com/kovidgoyal/kitty) ⭐ 31,158 | 🐛 25 | 🌐 Python | 📅 2026-02-09 - Cross-platform, fast, feature full, GPU based terminal emulator.
 
   <details>
   <summary>More</summary>
@@ -9786,7 +9786,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [iTerm 2](https://github.com/gnachman/iTerm2) ⭐ 16,915 | 🐛 49 | 🌐 Objective-C | 📅 2026-02-07 - Terminal emulator for macOS that does amazing things.
+* [iTerm 2](https://github.com/gnachman/iTerm2) ⭐ 16,923 | 🐛 49 | 🌐 Objective-C | 📅 2026-02-08 - Terminal emulator for macOS that does amazing things.
 
   <details>
   <summary>More</summary>
@@ -9799,7 +9799,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) ⭐ 6,675 | 🐛 39 | 🌐 Swift | 📅 2025-01-18 - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+* [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) ⭐ 6,678 | 🐛 39 | 🌐 Swift | 📅 2025-01-18 - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 
   <details>
   <summary>More</summary>
@@ -9923,7 +9923,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🎚️ Touch Bar (6)
 
-* [Pock](https://github.com/pock/pock) ⭐ 10,151 | 🐛 70 | 🌐 Swift | 📅 2022-11-12 - Display macOS Dock in Touch Bar.
+* [Pock](https://github.com/pock/pock) ⭐ 10,150 | 🐛 70 | 🌐 Swift | 📅 2022-11-12 - Display macOS Dock in Touch Bar.
 
   <details>
   <summary>More</summary>
@@ -10023,7 +10023,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🛠️ Utilities (83)
 
-* [NVM](https://github.com/nvm-sh/nvm) ⭐ 91,567 | 🐛 372 | 🌐 Shell | 📅 2026-01-29 - Node Version Manager.
+* [NVM](https://github.com/nvm-sh/nvm) ⭐ 91,582 | 🐛 372 | 🌐 Shell | 📅 2026-01-29 - Node Version Manager.
 
   <details>
   <summary>More</summary>
@@ -10036,7 +10036,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [PowerShell](https://github.com/powershell/powershell) ⭐ 51,392 | 🐛 1,391 | 🌐 C# | 📅 2026-02-07 - PowerShell is a cross-platform automation and configuration tool/framework that works well with your existing tools.
+* [PowerShell](https://github.com/powershell/powershell) ⭐ 51,400 | 🐛 1,392 | 🌐 C# | 📅 2026-02-09 - PowerShell is a cross-platform automation and configuration tool/framework that works well with your existing tools.
 
   <details>
   <summary>More</summary>
@@ -10049,7 +10049,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Stats](https://github.com/exelban/stats) ⭐ 36,288 | 🐛 30 | 🌐 Swift | 📅 2026-02-01 - macOS system monitor in your menu bar
+* [Stats](https://github.com/exelban/stats) ⭐ 36,333 | 🐛 30 | 🌐 Swift | 📅 2026-02-01 - macOS system monitor in your menu bar
 
   <details>
   <summary>More</summary>
@@ -10066,7 +10066,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 33,223 | 🐛 151 | 🌐 Rust | 📅 2026-02-07 - zoxide is a smarter cd command for your terminal.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 33,256 | 🐛 151 | 🌐 Rust | 📅 2026-02-07 - zoxide is a smarter cd command for your terminal.
 
   <details>
   <summary>More</summary>
@@ -10083,7 +10083,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Balena Etcher](https://github.com/balena-io/etcher) ⭐ 33,104 | 🐛 643 | 🌐 TypeScript | 📅 2025-07-29 - Flash OS images to SD cards & USB drives, safely and easily.
+* [Balena Etcher](https://github.com/balena-io/etcher) ⭐ 33,112 | 🐛 642 | 🌐 TypeScript | 📅 2025-07-29 - Flash OS images to SD cards & USB drives, safely and easily.
 
   <details>
   <summary>More</summary>
@@ -10098,7 +10098,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [MonitorControl](https://github.com/MonitorControl/MonitorControl) ⭐ 32,345 | 🐛 20 | 🌐 Swift | 📅 2026-01-15 - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
+* [MonitorControl](https://github.com/MonitorControl/MonitorControl) ⭐ 32,354 | 🐛 20 | 🌐 Swift | 📅 2026-01-15 - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
 
   <details>
   <summary>More</summary>
@@ -10115,7 +10115,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Ice](https://github.com/jordanbaird/Ice) ⭐ 25,853 | 🐛 341 | 🌐 Swift | 📅 2025-09-20 - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
+* [Ice](https://github.com/jordanbaird/Ice) ⭐ 25,877 | 🐛 341 | 🌐 Swift | 📅 2025-09-20 - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
 
   <details>
   <summary>More</summary>
@@ -10136,7 +10136,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [KeePassXC](https://github.com/keepassxreboot/keepassxc) ⭐ 25,790 | 🐛 823 | 🌐 C++ | 📅 2026-01-18 - Cross-platform community-driven port of the Windows application "Keepass Password Safe"
+* [KeePassXC](https://github.com/keepassxreboot/keepassxc) ⭐ 25,804 | 🐛 822 | 🌐 C++ | 📅 2026-01-18 - Cross-platform community-driven port of the Windows application "Keepass Password Safe"
 
   <details>
   <summary>More</summary>
@@ -10149,7 +10149,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [calibre](https://github.com/kovidgoyal/calibre) ⭐ 24,040 | 🐛 6 | 🌐 Python | 📅 2026-02-08 - cross platform e-book manager.
+* [calibre](https://github.com/kovidgoyal/calibre) ⭐ 24,055 | 🐛 6 | 🌐 Python | 📅 2026-02-08 - cross platform e-book manager.
 
   <details>
   <summary>More</summary>
@@ -10164,7 +10164,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [homebrew-cask](https://github.com/Homebrew/homebrew-cask) ⭐ 21,811 | 🐛 26 | 🌐 Ruby | 📅 2026-02-08 - A CLI workflow for the administration of macOS applications distributed as binaries
+* [homebrew-cask](https://github.com/Homebrew/homebrew-cask) ⭐ 21,814 | 🐛 8 | 🌐 Ruby | 📅 2026-02-09 - A CLI workflow for the administration of macOS applications distributed as binaries
 
   <details>
   <summary>More</summary>
@@ -10196,7 +10196,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Mos](https://github.com/Caldis/Mos) ⭐ 18,630 | 🐛 313 | 🌐 Swift | 📅 2026-02-06 - Smooth your mouse's scrolling and reverse the mouse scroll direction
+* [Mos](https://github.com/Caldis/Mos) ⭐ 18,640 | 🐛 314 | 🌐 Swift | 📅 2026-02-06 - Smooth your mouse's scrolling and reverse the mouse scroll direction
 
   <details>
   <summary>More</summary>
@@ -10209,7 +10209,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Super Productivity](https://github.com/johannesjo/super-productivity) ⭐ 17,378 | 🐛 770 | 🌐 TypeScript | 📅 2026-02-07 - Free to do list & time tracker for programmers & designers with Jira integration.
+* [Super Productivity](https://github.com/johannesjo/super-productivity) ⭐ 17,391 | 🐛 767 | 🌐 TypeScript | 📅 2026-02-09 - Free to do list & time tracker for programmers & designers with Jira integration.
 
   <details>
   <summary>More</summary>
@@ -10228,7 +10228,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [nix-package-manager](https://github.com/NixOS/nix) ⭐ 16,064 | 🐛 3,914 | 🌐 C++ | 📅 2026-02-07 - Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages.
+* [nix-package-manager](https://github.com/NixOS/nix) ⭐ 16,073 | 🐛 3,915 | 🌐 C++ | 📅 2026-02-08 - Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages.
 
   <details>
   <summary>More</summary>
@@ -10243,7 +10243,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [KeeWeb](https://github.com/keeweb/keeweb) ⭐ 12,875 | 🐛 428 | 🌐 HTML | 📅 2025-05-19 - Cross-platform password manager compatible with KeePass.
+* [KeeWeb](https://github.com/keeweb/keeweb) ⭐ 12,874 | 🐛 428 | 🌐 HTML | 📅 2025-05-19 - Cross-platform password manager compatible with KeePass.
 
   <details>
   <summary>More</summary>
@@ -10256,7 +10256,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Nmap](https://github.com/nmap/nmap) ⭐ 12,347 | 🐛 913 | 🌐 C | 📅 2026-02-06 - Nmap - the Network Mapper.
+* [Nmap](https://github.com/nmap/nmap) ⭐ 12,362 | 🐛 913 | 🌐 C | 📅 2026-02-06 - Nmap - the Network Mapper.
 
   <details>
   <summary>More</summary>
@@ -10271,7 +10271,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [eul](https://github.com/gao-sun/eul) ⭐ 9,791 | 🐛 69 | 🌐 Swift | 📅 2024-05-25 - macOS status monitoring app written in SwiftUI.
+* [eul](https://github.com/gao-sun/eul) ⭐ 9,792 | 🐛 69 | 🌐 Swift | 📅 2024-05-25 - macOS status monitoring app written in SwiftUI.
 
   <details>
   <summary>More</summary>
@@ -10288,7 +10288,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Wireshark](https://github.com/wireshark/wireshark) ⭐ 8,977 | 🐛 2 | 🌐 C | 📅 2026-02-07 - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.
+* [Wireshark](https://github.com/wireshark/wireshark) ⭐ 8,985 | 🐛 2 | 🌐 C | 📅 2026-02-08 - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.
 
   <details>
   <summary>More</summary>
@@ -10303,7 +10303,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [dupeGuru](https://github.com/arsenetar/dupeguru/) ⭐ 7,279 | 🐛 509 | 🌐 Python | 📅 2026-01-06 - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents.
+* [dupeGuru](https://github.com/arsenetar/dupeguru/) ⭐ 7,280 | 🐛 510 | 🌐 Python | 📅 2026-01-06 - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents.
 
   <details>
   <summary>More</summary>
@@ -10335,7 +10335,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Keka](https://github.com/aonez/Keka) ⭐ 6,366 | 🐛 249 | 🌐 PHP | 📅 2025-11-10 - Keka is a full featured file archiver, as easy as it can be.
+* [Keka](https://github.com/aonez/Keka) ⭐ 6,372 | 🐛 249 | 🌐 PHP | 📅 2025-11-10 - Keka is a full featured file archiver, as easy as it can be.
 
   <details>
   <summary>More</summary>
@@ -10354,7 +10354,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Lunar](https://github.com/alin23/lunar) ⭐ 5,437 | 🐛 5 | 🌐 Swift | 📅 2026-01-30 - Intelligent adaptive brightness for your external displays.
+* [Lunar](https://github.com/alin23/lunar) ⭐ 5,441 | 🐛 5 | 🌐 Swift | 📅 2026-01-30 - Intelligent adaptive brightness for your external displays.
 
   <details>
   <summary>More</summary>
@@ -10390,7 +10390,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [MeetingBar](https://github.com/leits/MeetingBar) ⭐ 5,107 | 🐛 96 | 🌐 Swift | 📅 2026-01-29 - Menu bar app for your calendar meetings
+* [MeetingBar](https://github.com/leits/MeetingBar) ⭐ 5,108 | 🐛 96 | 🌐 Swift | 📅 2026-01-29 - Menu bar app for your calendar meetings
 
   <details>
   <summary>More</summary>
@@ -10407,7 +10407,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Flying Carpet](https://github.com/spieglt/flyingcarpet) ⭐ 4,944 | 🐛 17 | 🌐 Rust | 📅 2026-02-05 - cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux.
+* [Flying Carpet](https://github.com/spieglt/flyingcarpet) ⭐ 4,945 | 🐛 17 | 🌐 Rust | 📅 2026-02-05 - cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux.
 
   <details>
   <summary>More</summary>
@@ -10439,7 +10439,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [MQTTX](https://github.com/emqx/MQTTX) ⭐ 4,792 | 🐛 93 | 🌐 TypeScript | 📅 2026-02-03 - An elegant Cross-platform MQTT 5.0 desktop client.
+* [MQTTX](https://github.com/emqx/MQTTX) ⭐ 4,794 | 🐛 93 | 🌐 TypeScript | 📅 2026-02-03 - An elegant Cross-platform MQTT 5.0 desktop client.
 
   <details>
   <summary>More</summary>
@@ -10475,7 +10475,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [fselect](https://github.com/jhspetersson/fselect) ⭐ 4,385 | 🐛 13 | 🌐 Rust | 📅 2026-02-04 - Command-line tool to search files with SQL syntax.
+* [fselect](https://github.com/jhspetersson/fselect) ⭐ 4,386 | 🐛 13 | 🌐 Rust | 📅 2026-02-04 - Command-line tool to search files with SQL syntax.
 
   <details>
   <summary>More</summary>
@@ -10530,7 +10530,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Betaflight Configurator](https://github.com/betaflight/betaflight-configurator) ⭐ 3,057 | 🐛 46 | 🌐 JavaScript | 📅 2026-02-05 - Cross platform configuration tool for the Betaflight firmware.
+* [Betaflight Configurator](https://github.com/betaflight/betaflight-configurator) ⭐ 3,056 | 🐛 48 | 🌐 JavaScript | 📅 2026-02-09 - Cross platform configuration tool for the Betaflight firmware.
 
   <details>
   <summary>More</summary>
@@ -10607,7 +10607,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Middleclick](https://github.com/artginzburg/MiddleClick-Ventura) ⭐ 2,431 | 🐛 34 | 🌐 Swift | 📅 2025-12-03 - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse
+* [Middleclick](https://github.com/artginzburg/MiddleClick-Ventura) ⭐ 2,432 | 🐛 34 | 🌐 Swift | 📅 2025-12-03 - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse
 
   <details>
   <summary>More</summary>
@@ -10624,7 +10624,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Pika](https://github.com/superhighfives/pika) ⭐ 2,280 | 🐛 16 | 🌐 Swift | 📅 2026-01-26 - Is an easy to use, open-source, native colour picker for macOS.
+* [Pika](https://github.com/superhighfives/pika) ⭐ 2,281 | 🐛 16 | 🌐 Swift | 📅 2026-01-26 - Is an easy to use, open-source, native colour picker for macOS.
 
   <details>
   <summary>More</summary>
@@ -10656,7 +10656,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [OpenRocket](https://github.com/openrocket/openrocket) ⭐ 1,694 | 🐛 281 | 🌐 Java | 📅 2026-01-29 - OpenRocket is a cross-platform utility tool to model and simulate model rockets and their flight characteristics.
+* [OpenRocket](https://github.com/openrocket/openrocket) ⭐ 1,694 | 🐛 283 | 🌐 Java | 📅 2026-01-29 - OpenRocket is a cross-platform utility tool to model and simulate model rockets and their flight characteristics.
 
   <details>
   <summary>More</summary>
@@ -10723,7 +10723,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Stringz](https://github.com/mohakapt/Stringz) ⭐ 1,018 | 🐛 19 | 🌐 Swift | 📅 2024-03-03 - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
+* [Stringz](https://github.com/mohakapt/Stringz) ⭐ 1,020 | 🐛 19 | 🌐 Swift | 📅 2024-03-03 - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
 
   <details>
   <summary>More</summary>
@@ -10813,7 +10813,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Monolingual](https://github.com/IngmarStein/Monolingual) ⭐ 563 | 🐛 41 | 🌐 Swift | 📅 2026-01-21 - Remove unnecessary language resources from macOS
+* [Monolingual](https://github.com/IngmarStein/Monolingual) ⭐ 564 | 🐛 41 | 🌐 Swift | 📅 2026-01-21 - Remove unnecessary language resources from macOS
 
   <details>
   <summary>More</summary>
@@ -10908,7 +10908,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [MacPacker](https://github.com/sarensw/MacPacker/) ⭐ 369 | 🐛 6 | 🌐 Swift | 📅 2026-02-07 - Archive manager for macOS. Preview (nested) archives without extracting them. Extract single files.
+* [MacPacker](https://github.com/sarensw/MacPacker/) ⭐ 369 | 🐛 7 | 🌐 Swift | 📅 2026-02-07 - Archive manager for macOS. Preview (nested) archives without extracting them. Extract single files.
 
   <details>
   <summary>More</summary>
@@ -10978,7 +10978,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [CoreLocationCLI](https://github.com/fulldecent/corelocationcli) ⭐ 262 | 🐛 1 | 🌐 Shell | 📅 2025-12-02 - Get the physical location of your device and prints it to standard output
+* [CoreLocationCLI](https://github.com/fulldecent/corelocationcli) ⭐ 263 | 🐛 1 | 🌐 Shell | 📅 2025-12-02 - Get the physical location of your device and prints it to standard output
 
   <details>
   <summary>More</summary>
@@ -11029,7 +11029,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder) ⭐ 157 | 🐛 0 | 🌐 Swift | 📅 2021-08-08 - It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.
+* [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder) ⭐ 158 | 🐛 0 | 🌐 Swift | 📅 2021-08-08 - It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.
 
   <details>
   <summary>More</summary>
@@ -11095,7 +11095,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [MiddleDrag](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) ⭐ 98 | 🐛 7 | 🌐 Swift | 📅 2026-02-08 - Three-finger trackpad gestures for middle-click and middle-drag.
+* [MiddleDrag](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) ⭐ 98 | 🐛 9 | 🌐 Swift | 📅 2026-02-08 - Three-finger trackpad gestures for middle-click and middle-drag.
 
   <details>
   <summary>More</summary>
@@ -11387,7 +11387,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) ⭐ 3,165 | 🐛 58 | 🌐 Objective-C | 📅 2026-01-28 - Tunnelblick is a graphic user interface for OpenVPN on macOS.
+* [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) ⭐ 3,166 | 🐛 58 | 🌐 Objective-C | 📅 2026-01-28 - Tunnelblick is a graphic user interface for OpenVPN on macOS.
 
   <details>
   <summary>More</summary>
@@ -11462,7 +11462,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🎬 Video (19)
 
-* [LosslessCut](https://github.com/mifi/lossless-cut) ⭐ 37,985 | 🐛 242 | 🌐 TypeScript | 📅 2026-01-30 - The swiss army knife of lossless video/audio editing without re-encoding.
+* [LosslessCut](https://github.com/mifi/lossless-cut) ⭐ 38,008 | 🐛 243 | 🌐 TypeScript | 📅 2026-01-30 - The swiss army knife of lossless video/audio editing without re-encoding.
 
   <details>
   <summary>More</summary>
@@ -11481,7 +11481,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [MPV](https://github.com/mpv-player/mpv) ⭐ 33,940 | 🐛 1,079 | 🌐 C | 📅 2026-02-08 - Lightweight, highly configurable media player.
+* [MPV](https://github.com/mpv-player/mpv) ⭐ 33,950 | 🐛 1,077 | 🌐 C | 📅 2026-02-08 - Lightweight, highly configurable media player.
 
   <details>
   <summary>More</summary>
@@ -11500,7 +11500,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [HandBrake](https://github.com/HandBrake/HandBrake) ⭐ 22,329 | 🐛 274 | 🌐 C | 📅 2026-02-07 - HandBrake is a video transcoder available for Linux, Mac, and Windows.
+* [HandBrake](https://github.com/HandBrake/HandBrake) ⭐ 22,339 | 🐛 274 | 🌐 C | 📅 2026-02-08 - HandBrake is a video transcoder available for Linux, Mac, and Windows.
 
   <details>
   <summary>More</summary>
@@ -11513,7 +11513,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [VLC](https://github.com/videolan/vlc) ⭐ 17,571 | 🐛 3 | 🌐 C | 📅 2026-02-07 -  VLC is a free and open source cross-platform multimedia player
+* [VLC](https://github.com/videolan/vlc) ⭐ 17,584 | 🐛 2 | 🌐 C | 📅 2026-02-08 -  VLC is a free and open source cross-platform multimedia player
 
   <details>
   <summary>More</summary>
@@ -11528,7 +11528,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) ⭐ 10,028 | 🐛 77 | 🌐 JavaScript | 📅 2026-02-03 - Streaming torrent app. For Mac, Windows, and Linux.
+* [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) ⭐ 10,027 | 🐛 77 | 🌐 JavaScript | 📅 2026-02-03 - Streaming torrent app. For Mac, Windows, and Linux.
 
   <details>
   <summary>More</summary>
@@ -11549,7 +11549,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [OpenShot](https://github.com/OpenShot/openshot-qt) ⭐ 5,448 | 🐛 341 | 🌐 Python | 📅 2026-02-07 - Easy to use, quick to learn, and surprisingly powerful video editor.
+* [OpenShot](https://github.com/OpenShot/openshot-qt) ⭐ 5,449 | 🐛 341 | 🌐 Python | 📅 2026-02-08 - Easy to use, quick to learn, and surprisingly powerful video editor.
 
   <details>
   <summary>More</summary>
@@ -11938,7 +11938,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🪟 Window Management (12)
 
-* [Rectangle](https://github.com/rxhanson/Rectangle) ⭐ 28,360 | 🐛 99 | 🌐 Swift | 📅 2026-01-30 - Rectangle is a window manager heavily based on Spectacle, written in Swift.
+* [Rectangle](https://github.com/rxhanson/Rectangle) ⭐ 28,368 | 🐛 100 | 🌐 Swift | 📅 2026-01-30 - Rectangle is a window manager heavily based on Spectacle, written in Swift.
 
   <details>
   <summary>More</summary>
@@ -11953,7 +11953,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Yabai](https://github.com/koekeishiya/yabai) ⭐ 28,103 | 🐛 257 | 🌐 C | 📅 2026-01-17 - A tiling window manager for macOS based on binary space partitioning.
+* [Yabai](https://github.com/koekeishiya/yabai) ⭐ 28,111 | 🐛 257 | 🌐 C | 📅 2026-01-17 - A tiling window manager for macOS based on binary space partitioning.
 
   <details>
   <summary>More</summary>
@@ -11970,7 +11970,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Ice](https://github.com/jordanbaird/Ice) ⭐ 25,853 | 🐛 341 | 🌐 Swift | 📅 2025-09-20 - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
+* [Ice](https://github.com/jordanbaird/Ice) ⭐ 25,877 | 🐛 341 | 🌐 Swift | 📅 2025-09-20 - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
 
   <details>
   <summary>More</summary>
@@ -11991,7 +11991,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Amethyst](https://github.com/ianyh/Amethyst) ⭐ 15,999 | 🐛 322 | 🌐 Swift | 📅 2026-01-02 - Automatic tiling window manager for macOS.
+* [Amethyst](https://github.com/ianyh/Amethyst) ⭐ 16,000 | 🐛 322 | 🌐 Swift | 📅 2026-01-02 - Automatic tiling window manager for macOS.
 
   <details>
   <summary>More</summary>
@@ -12012,7 +12012,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [AltTab](https://github.com/lwouis/alt-tab-macos) ⭐ 14,646 | 🐛 85 | 🌐 Swift | 📅 2026-02-02 - AltTab brings the power of Windows alt-tab to macOS.
+* [AltTab](https://github.com/lwouis/alt-tab-macos) ⭐ 14,653 | 🐛 83 | 🌐 Swift | 📅 2026-02-02 - AltTab brings the power of Windows alt-tab to macOS.
 
   <details>
   <summary>More</summary>
@@ -12035,7 +12035,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) ⭐ 14,433 | 🐛 651 | 🌐 Objective-C | 📅 2025-12-24 - Staggeringly powerful macOS desktop automation with Lua.
+* [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) ⭐ 14,439 | 🐛 651 | 🌐 Objective-C | 📅 2025-12-24 - Staggeringly powerful macOS desktop automation with Lua.
 
   <details>
   <summary>More</summary>
@@ -12095,7 +12095,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* [Phoenix](https://github.com/kasper/phoenix) ⭐ 4,518 | 🐛 49 | 🌐 Objective-C | 📅 2025-08-31 - Lightweight macOS window and app manager scriptable with JavaScript.
+* [Phoenix](https://github.com/kasper/phoenix) ⭐ 4,519 | 🐛 49 | 🌐 Objective-C | 📅 2025-08-31 - Lightweight macOS window and app manager scriptable with JavaScript.
 
   <details>
   <summary>More</summary>
