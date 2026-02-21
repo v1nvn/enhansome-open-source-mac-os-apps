@@ -43,10 +43,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-19T16:08:17Z",
+            "last_commit": "2026-02-20T07:47:49Z",
             "owner": "audacity",
             "repo": "audacity",
-            "stars": 16502
+            "stars": 16506
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2025-12-29T21:59:33Z",
             "owner": "kyleneideck",
             "repo": "BackgroundMusic",
-            "stars": 18663
+            "stars": 18667
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2026-02-18T03:41:39Z",
             "owner": "clementine-player",
             "repo": "Clementine",
-            "stars": 4169
+            "stars": 4170
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-02-14T22:39:32Z",
             "owner": "bhj",
             "repo": "KaraokeEternal",
-            "stars": 696
+            "stars": 697
           }
         },
         {
@@ -233,7 +233,7 @@
             "last_commit": "2026-02-18T05:03:58Z",
             "owner": "mifi",
             "repo": "lossless-cut",
-            "stars": 38376
+            "stars": 38405
           }
         },
         {
@@ -272,7 +272,7 @@
             "last_commit": "2025-09-29T03:28:40Z",
             "owner": "ddddxxx",
             "repo": "LyricsX",
-            "stars": 5109
+            "stars": 5110
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-02-09T09:32:16Z",
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 32455
+            "stars": 32457
           }
         },
         {
@@ -308,10 +308,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-19T18:18:56Z",
+            "last_commit": "2026-02-21T00:36:35Z",
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 34115
+            "stars": 34130
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2024-05-28T13:24:21Z",
             "owner": "insidegui",
             "repo": "NoiseBuddy",
-            "stars": 733
+            "stars": 732
           }
         },
         {
@@ -337,7 +337,7 @@
             "last_commit": "2026-02-20T01:33:36Z",
             "owner": "nbolar",
             "repo": "PlayStatus",
-            "stars": 170
+            "stars": 169
           }
         },
         {
@@ -351,6 +351,19 @@
             "owner": "wulkano",
             "repo": "Plug",
             "stars": 226
+          }
+        },
+        {
+          "children": [],
+          "description": "Audio Sample manager.",
+          "title": "Pulp",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-27T08:03:40Z",
+            "owner": "bazalp",
+            "repo": "pulp",
+            "stars": 77
           }
         },
         {
@@ -425,10 +438,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-01-29T15:21:19Z",
+            "last_commit": "2026-02-20T19:53:55Z",
             "owner": "kmikiy",
             "repo": "SpotMenu",
-            "stars": 3063
+            "stars": 3064
           }
         },
         {
@@ -442,6 +455,19 @@
             "owner": "will-stone",
             "repo": "SpotSpot",
             "stars": 137
+          }
+        },
+        {
+          "children": [],
+          "description": "An all-in-one digital audio workstation (DAW) and plugin suite",
+          "title": "StargateDAW",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-21T17:51:22Z",
+            "owner": "stargatedaw",
+            "repo": "stargate",
+            "stars": 808
           }
         },
         {
@@ -467,7 +493,7 @@
             "last_commit": "2023-04-23T21:15:17Z",
             "owner": "yingDev",
             "repo": "Tickeys",
-            "stars": 1529
+            "stars": 1530
           }
         },
         {
@@ -497,11 +523,24 @@
           }
         }
       ],
-      "title": "🎵 Audio (37)"
+      "title": "🎵 Audio (39)"
     },
     {
       "description": "",
       "items": [
+        {
+          "children": [],
+          "description": "Tiny multiprocessing utility for file backups.",
+          "title": "backy",
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-08-16T09:56:41Z",
+            "owner": "vdbsh",
+            "repo": "backy",
+            "stars": 17
+          }
+        },
         {
           "children": [],
           "description": "Simple and Secure Offsite Backups",
@@ -517,7 +556,7 @@
             "last_commit": "2026-02-17T00:50:17Z",
             "owner": "lra",
             "repo": "mackup",
-            "stars": 15106
+            "stars": 15105
           }
         },
         {
@@ -556,11 +595,11 @@
             "last_commit": "2026-02-07T16:17:39Z",
             "owner": "uroni",
             "repo": "urbackup_backend",
-            "stars": 834
+            "stars": 837
           }
         }
       ],
-      "title": "💾 Backup (5)"
+      "title": "💾 Backup (6)"
     },
     {
       "description": "",
@@ -585,10 +624,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-02-20T04:03:06Z",
+            "last_commit": "2026-02-20T16:03:27Z",
             "owner": "brave",
             "repo": "brave-browser",
-            "stars": 21691
+            "stars": 21696
           }
         },
         {
@@ -619,7 +658,7 @@
             "last_commit": "2025-11-17T18:47:26Z",
             "owner": "johnste",
             "repo": "finicky",
-            "stars": 4603
+            "stars": 4605
           }
         },
         {
@@ -650,7 +689,7 @@
             "last_commit": "2026-01-25T20:20:53Z",
             "owner": "minbrowser",
             "repo": "min",
-            "stars": 8861
+            "stars": 8862
           }
         },
         {
@@ -660,10 +699,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-19T20:27:36Z",
+            "last_commit": "2026-02-20T20:32:48Z",
             "owner": "OtterBrowser",
             "repo": "otter-browser",
-            "stars": 1955
+            "stars": 1956
           }
         },
         {
@@ -689,7 +728,7 @@
             "last_commit": "2025-10-29T07:29:57Z",
             "owner": "sindresorhus",
             "repo": "Plash",
-            "stars": 3920
+            "stars": 3919
           }
         },
         {
@@ -712,7 +751,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-13T22:29:23Z",
+            "last_commit": "2026-02-20T16:55:27Z",
             "owner": "SafeExamBrowser",
             "repo": "seb-mac",
             "stars": 122
@@ -783,10 +822,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-19T18:30:00Z",
+            "last_commit": "2026-02-20T17:06:04Z",
             "owner": "vector-im",
             "repo": "element-web",
-            "stars": 12671
+            "stars": 12675
           }
         },
         {
@@ -848,10 +887,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-19T20:41:03Z",
+            "last_commit": "2026-02-20T12:21:00Z",
             "owner": "RocketChat",
             "repo": "Rocket.Chat.Electron",
-            "stars": 1674
+            "stars": 1675
           }
         },
         {
@@ -882,6 +921,19 @@
         },
         {
           "children": [],
+          "description": "Native Discord client built in Swift & SwiftUI. Light on your RAM and CPU.",
+          "title": "Swiftcord",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-05-29T12:04:20Z",
+            "owner": "SwiftcordApp",
+            "repo": "Swiftcord",
+            "stars": 2192
+          }
+        },
+        {
+          "children": [],
           "description": "Source code of Telegram for macOS on Swift.",
           "title": "Telegram",
           "repo_info": {
@@ -890,7 +942,7 @@
             "last_commit": "2025-09-22T14:19:15Z",
             "owner": "overtake",
             "repo": "TelegramSwift",
-            "stars": 5546
+            "stars": 5550
           }
         },
         {
@@ -900,10 +952,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-19T11:05:40Z",
+            "last_commit": "2026-02-20T07:27:51Z",
             "owner": "telegramdesktop",
             "repo": "tdesktop",
-            "stars": 29898
+            "stars": 29906
           }
         },
         {
@@ -949,14 +1001,14 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-20T04:13:07Z",
+            "last_commit": "2026-02-20T08:16:24Z",
             "owner": "wireapp",
             "repo": "wire-desktop",
             "stars": 1114
           }
         }
       ],
-      "title": "💬 Chat (19)"
+      "title": "💬 Chat (20)"
     },
     {
       "description": "",
@@ -968,10 +1020,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T03:10:51Z",
+            "last_commit": "2026-02-21T00:46:15Z",
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 88191
+            "stars": 88201
           }
         },
         {
@@ -1031,10 +1083,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-11T18:41:18Z",
+            "last_commit": "2026-02-20T15:42:19Z",
             "owner": "bdash-app",
             "repo": "bdash",
-            "stars": 1515
+            "stars": 1514
           }
         },
         {
@@ -1044,10 +1096,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-20T02:03:42Z",
+            "last_commit": "2026-02-20T21:38:02Z",
             "owner": "beekeeper-studio",
             "repo": "beekeeper-studio",
-            "stars": 22030
+            "stars": 22036
           }
         },
         {
@@ -1060,7 +1112,7 @@
             "last_commit": "2026-01-29T00:24:53Z",
             "owner": "sqlitebrowser",
             "repo": "sqlitebrowser",
-            "stars": 23648
+            "stars": 23653
           }
         },
         {
@@ -1070,10 +1122,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-19T21:08:00Z",
+            "last_commit": "2026-02-20T20:35:31Z",
             "owner": "dbeaver",
             "repo": "dbeaver",
-            "stars": 48740
+            "stars": 48750
           }
         },
         {
@@ -1083,10 +1135,10 @@
           "repo_info": {
             "archived": false,
             "language": "Svelte",
-            "last_commit": "2026-02-19T10:00:49Z",
+            "last_commit": "2026-02-20T14:33:44Z",
             "owner": "dbgate",
             "repo": "dbgate",
-            "stars": 6768
+            "stars": 6769
           }
         },
         {
@@ -1151,7 +1203,7 @@
             "last_commit": "2026-02-17T23:59:13Z",
             "owner": "PostgresApp",
             "repo": "PostgresApp",
-            "stars": 7690
+            "stars": 7691
           }
         },
         {
@@ -1164,7 +1216,7 @@
             "last_commit": "2024-07-10T07:40:01Z",
             "owner": "uglide",
             "repo": "RedisDesktopManager",
-            "stars": 23227
+            "stars": 23226
           }
         },
         {
@@ -1190,7 +1242,7 @@
             "last_commit": "2022-07-26T01:28:41Z",
             "owner": "jpadilla",
             "repo": "redisapp",
-            "stars": 364
+            "stars": 363
           }
         },
         {
@@ -1229,7 +1281,7 @@
             "last_commit": "2026-02-20T01:04:52Z",
             "owner": "Sequel-Ace",
             "repo": "Sequel-Ace",
-            "stars": 7299
+            "stars": 7298
           }
         },
         {
@@ -1242,7 +1294,7 @@
             "last_commit": "2023-02-25T08:11:30Z",
             "owner": "sequelpro",
             "repo": "sequelpro",
-            "stars": 9200
+            "stars": 9199
           }
         },
         {
@@ -1255,7 +1307,7 @@
             "last_commit": "2025-12-03T04:33:09Z",
             "owner": "sqlectron",
             "repo": "sqlectron-gui",
-            "stars": 4731
+            "stars": 4732
           }
         }
       ],
@@ -1271,10 +1323,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-19T19:20:24Z",
+            "last_commit": "2026-02-20T07:42:44Z",
             "owner": "apache",
             "repo": "netbeans",
-            "stars": 3016
+            "stars": 3018
           }
         },
         {
@@ -1288,6 +1340,19 @@
             "owner": "brackets-cont",
             "repo": "brackets",
             "stars": 1495
+          }
+        },
+        {
+          "children": [],
+          "description": "An easy-to-use clipboard manager with time saving features that work across all terminals.",
+          "title": "Clipboard",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-11T15:44:24Z",
+            "owner": "Slackadays",
+            "repo": "Clipboard",
+            "stars": 5678
           }
         },
         {
@@ -1318,6 +1383,19 @@
         },
         {
           "children": [],
+          "description": "Eclipse is an open-source integrated development environment (IDE) used in computer programming, featuring a base workspace and an extensible plug-in system for customizing the environment.",
+          "title": "Eclipse",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-20T23:02:54Z",
+            "owner": "eclipse-platform",
+            "repo": "eclipse.platform",
+            "stars": 142
+          }
+        },
+        {
+          "children": [],
           "description": "A graphical Git client designed to help you understand and manage your source code history.",
           "title": "GitAhead",
           "repo_info": {
@@ -1339,7 +1417,20 @@
             "last_commit": "2025-05-09T08:29:16Z",
             "owner": "Slllava",
             "repo": "gridfy",
-            "stars": 34
+            "stars": 35
+          }
+        },
+        {
+          "children": [],
+          "description": "JustTags in a macOS app for working with BERTLV EMV tags.",
+          "title": "JustTags",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-06-20T13:43:08Z",
+            "owner": "kaphacius",
+            "repo": "just-tags",
+            "stars": 18
           }
         },
         {
@@ -1362,6 +1453,32 @@
         },
         {
           "children": [],
+          "description": "Application to spoof your iOS or iPhoneSimulator location.",
+          "title": "LocationSimulator",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-10-30T11:18:21Z",
+            "owner": "Schlaubischlump",
+            "repo": "LocationSimulator",
+            "stars": 2907
+          }
+        },
+        {
+          "children": [],
+          "description": "Desktop app for fine-tuning LLMs on Apple Silicon Macs with zero code. Import documents, generate training datasets with AI, LoRA fine-tune, test, and export to Ollama — entirely offline.",
+          "title": "M-Courtyard",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-21T00:14:50Z",
+            "owner": "Mcourtyard",
+            "repo": "m-courtyard",
+            "stars": 29
+          }
+        },
+        {
+          "children": [],
           "description": "Inspect the system pasteboards.",
           "title": "Pasteboard Viewer",
           "repo_info": {
@@ -1370,7 +1487,7 @@
             "last_commit": "2025-09-13T12:45:09Z",
             "owner": "sindresorhus",
             "repo": "Pasteboard-Viewer",
-            "stars": 812
+            "stars": 813
           }
         },
         {
@@ -1383,7 +1500,7 @@
             "last_commit": "2024-03-03T06:49:35Z",
             "owner": "mohakapt",
             "repo": "Stringz",
-            "stars": 1020
+            "stars": 1021
           }
         },
         {
@@ -1392,7 +1509,7 @@
           "title": "utmapp"
         }
       ],
-      "title": "👨‍💻 Development (11)"
+      "title": "👨‍💻 Development (16)"
     },
     {
       "description": "",
@@ -1482,10 +1599,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-19T12:50:15Z",
+            "last_commit": "2026-02-20T14:51:01Z",
             "owner": "desktop",
             "repo": "desktop",
-            "stars": 21211
+            "stars": 21214
           }
         },
         {
@@ -1521,10 +1638,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-18T02:56:33Z",
+            "last_commit": "2026-02-20T20:22:38Z",
             "owner": "manosim",
             "repo": "gitify",
-            "stars": 5173
+            "stars": 5175
           }
         },
         {
@@ -1550,7 +1667,7 @@
             "last_commit": "2026-02-15T03:46:31Z",
             "owner": "git-up",
             "repo": "GitUp",
-            "stars": 11914
+            "stars": 11916
           }
         },
         {
@@ -1560,7 +1677,7 @@
           "repo_info": {
             "archived": false,
             "language": "Objective-C",
-            "last_commit": "2025-12-15T15:59:22Z",
+            "last_commit": "2026-02-20T20:52:26Z",
             "owner": "gitx",
             "repo": "gitx",
             "stars": 872
@@ -1628,7 +1745,7 @@
             "last_commit": "2026-01-22T14:07:26Z",
             "owner": "maoyama",
             "repo": "Tempo",
-            "stars": 187
+            "stars": 188
           }
         },
         {
@@ -1651,7 +1768,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-02-19T22:24:05Z",
+            "last_commit": "2026-02-20T22:42:59Z",
             "owner": "Uncommon",
             "repo": "Xit",
             "stars": 1152
@@ -1770,7 +1887,7 @@
             "last_commit": "2026-02-03T06:32:39Z",
             "owner": "emqx",
             "repo": "MQTTX",
-            "stars": 4800
+            "stars": 4801
           }
         },
         {
@@ -1838,7 +1955,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-19T19:11:35Z",
+            "last_commit": "2026-02-20T22:36:25Z",
             "owner": "httptoolkit",
             "repo": "httptoolkit-desktop",
             "stars": 699
@@ -1854,7 +1971,7 @@
             "last_commit": "2026-02-17T15:44:40Z",
             "owner": "Kong",
             "repo": "insomnia",
-            "stars": 37949
+            "stars": 37948
           }
         },
         {
@@ -1924,19 +2041,6 @@
         },
         {
           "children": [],
-          "description": "Npm desktop GUI.",
-          "title": "ndm",
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-12-03T14:01:35Z",
-            "owner": "720kb",
-            "repo": "ndm",
-            "stars": 2136
-          }
-        },
-        {
-          "children": [],
           "description": "Evaluate Nodejs/JS code snippets from Menubar.",
           "title": "nodeScratchpad",
           "repo_info": {
@@ -1955,10 +2059,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-20T03:48:42Z",
+            "last_commit": "2026-02-20T14:54:21Z",
             "owner": "requestly",
             "repo": "requestly",
-            "stars": 6342
+            "stars": 6351
           }
         },
         {
@@ -1988,7 +2092,7 @@
           }
         }
       ],
-      "title": "🌍 Web Development (15)"
+      "title": "🌍 Web Development (14)"
     },
     {
       "description": "",
@@ -2003,7 +2107,7 @@
             "last_commit": "2025-12-26T04:08:46Z",
             "owner": "getappbox",
             "repo": "AppBox-iOSAppsWirelessInstallation",
-            "stars": 683
+            "stars": 684
           }
         },
         {
@@ -2042,7 +2146,7 @@
             "last_commit": "2025-08-26T14:08:13Z",
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2779
+            "stars": 2781
           }
         },
         {
@@ -2134,6 +2238,19 @@
             "owner": "waylybaye",
             "repo": "XcodeCleaner",
             "stars": 1552
+          }
+        },
+        {
+          "children": [],
+          "description": "Clendar is an universal calendar app. Written in SwiftUI.",
+          "title": "Clendar",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-17T11:32:10Z",
+            "owner": "vinhnx",
+            "repo": "Clendar",
+            "stars": 701
           }
         },
         {
@@ -2237,7 +2354,7 @@
             "last_commit": "2026-01-07T13:53:47Z",
             "owner": "SAP",
             "repo": "macos-icon-generator",
-            "stars": 571
+            "stars": 573
           }
         },
         {
@@ -2247,7 +2364,7 @@
           "repo_info": {
             "archived": false,
             "language": "Objective-C",
-            "last_commit": "2026-02-20T01:24:37Z",
+            "last_commit": "2026-02-20T23:36:42Z",
             "owner": "johnno1962",
             "repo": "InjectionIII",
             "stars": 4570
@@ -2302,7 +2419,7 @@
             "last_commit": "2022-09-04T18:39:25Z",
             "owner": "KnuffApp",
             "repo": "Knuff",
-            "stars": 5238
+            "stars": 5239
           }
         },
         {
@@ -2355,6 +2472,19 @@
             "owner": "e7711bbear",
             "repo": "Localizations",
             "stars": 129
+          }
+        },
+        {
+          "children": [],
+          "description": "Application to spoof your iOS or iPhoneSimulator location.",
+          "title": "LocationSimulator",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-10-30T11:18:21Z",
+            "owner": "Schlaubischlump",
+            "repo": "LocationSimulator",
+            "stars": 2907
           }
         },
         {
@@ -2471,7 +2601,7 @@
             "last_commit": "2024-03-03T06:49:35Z",
             "owner": "mohakapt",
             "repo": "Stringz",
-            "stars": 1020
+            "stars": 1021
           }
         },
         {
@@ -2540,7 +2670,7 @@
           }
         }
       ],
-      "title": "📱 iOS / macOS (42)"
+      "title": "📱 iOS / macOS (44)"
     },
     {
       "description": "",
@@ -2560,6 +2690,19 @@
         },
         {
           "children": [],
+          "description": "Find and install macOS apps from Homebrew Cask and Fairground App catalogs.",
+          "title": "App Fair",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-03-22T13:36:54Z",
+            "owner": "App-Fair",
+            "repo": "App",
+            "stars": 65
+          }
+        },
+        {
+          "children": [],
           "description": "User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click.",
           "title": "Applite",
           "repo_info": {
@@ -2568,7 +2711,7 @@
             "last_commit": "2026-02-05T18:34:21Z",
             "owner": "milanvarady",
             "repo": "Applite",
-            "stars": 6435
+            "stars": 6438
           }
         },
         {
@@ -2581,8 +2724,13 @@
             "last_commit": "2024-01-23T01:08:10Z",
             "owner": "subhra74",
             "repo": "xdm",
-            "stars": 7592
+            "stars": 7593
           }
+        },
+        {
+          "children": [],
+          "description": "Free open-source FTP, FTPS, and SFTP client.",
+          "title": "FileZilla"
         },
         {
           "children": [],
@@ -2607,7 +2755,7 @@
             "last_commit": "2024-07-11T12:09:20Z",
             "owner": "agalwood",
             "repo": "Motrix",
-            "stars": 50808
+            "stars": 50847
           }
         },
         {
@@ -2633,7 +2781,7 @@
             "last_commit": "2024-04-06T16:06:13Z",
             "owner": "FaisalUmair",
             "repo": "udemy-downloader-gui",
-            "stars": 6251
+            "stars": 6250
           }
         },
         {
@@ -2650,7 +2798,7 @@
           }
         }
       ],
-      "title": "⬇️ Downloader (8)"
+      "title": "⬇️ Downloader (10)"
     },
     {
       "description": "",
@@ -2691,7 +2839,7 @@
             "last_commit": "2025-12-14T15:55:34Z",
             "owner": "CodeEditApp",
             "repo": "CodeEdit",
-            "stars": 22676
+            "stars": 22677
           }
         },
         {
@@ -2732,9 +2880,22 @@
             "repo": "mxMarkEdit",
             "stars": 19
           }
+        },
+        {
+          "children": [],
+          "description": "Zed is an open source, high-performance, and multiplayer code editor",
+          "title": "Zed",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-21T01:43:28Z",
+            "owner": "zed-industries",
+            "repo": "zed",
+            "stars": 75698
+          }
         }
       ],
-      "title": "📝 Editors (6)"
+      "title": "📝 Editors (7)"
     },
     {
       "description": "",
@@ -2807,7 +2968,7 @@
             "last_commit": "2023-07-10T22:19:38Z",
             "owner": "MacDownApp",
             "repo": "macdown",
-            "stars": 9685
+            "stars": 9687
           }
         },
         {
@@ -2820,7 +2981,7 @@
             "last_commit": "2025-11-19T09:20:03Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 53969
+            "stars": 53983
           }
         },
         {
@@ -2830,10 +2991,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-02-15T13:01:38Z",
+            "last_commit": "2026-02-21T00:13:22Z",
             "owner": "MarkEdit-app",
             "repo": "MarkEdit",
-            "stars": 3664
+            "stars": 3666
           }
         },
         {
@@ -2869,10 +3030,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-02-20T00:31:45Z",
+            "last_commit": "2026-02-21T00:36:45Z",
             "owner": "obsidianmd",
             "repo": "obsidian-releases",
-            "stars": 14968
+            "stars": 14980
           }
         },
         {
@@ -2885,7 +3046,7 @@
             "last_commit": "2022-12-20T03:44:32Z",
             "owner": "lukakerr",
             "repo": "Pine",
-            "stars": 3462
+            "stars": 3463
           }
         },
         {
@@ -2895,10 +3056,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-19T19:30:24Z",
+            "last_commit": "2026-02-20T20:47:24Z",
             "owner": "pbek",
             "repo": "QOwnNotes",
-            "stars": 5602
+            "stars": 5601
           }
         },
         {
@@ -2911,7 +3072,7 @@
             "last_commit": "2026-02-19T18:21:41Z",
             "owner": "Zettlr",
             "repo": "Zettlr",
-            "stars": 12536
+            "stars": 12544
           }
         }
       ],
@@ -2940,10 +3101,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-02-19T14:27:19Z",
+            "last_commit": "2026-02-20T14:49:20Z",
             "owner": "coteditor",
             "repo": "CotEditor",
-            "stars": 7618
+            "stars": 7623
           }
         },
         {
@@ -2969,7 +3130,7 @@
             "last_commit": "2026-02-15T06:56:11Z",
             "owner": "macvim-dev",
             "repo": "macvim",
-            "stars": 7791
+            "stars": 7793
           }
         },
         {
@@ -2979,10 +3140,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-20T00:30:47Z",
+            "last_commit": "2026-02-21T00:31:52Z",
             "owner": "zyedidia",
             "repo": "micro",
-            "stars": 27986
+            "stars": 27992
           }
         },
         {
@@ -2996,6 +3157,19 @@
             "owner": "maxnd",
             "repo": "mxMarkEdit",
             "stars": 19
+          }
+        },
+        {
+          "children": [],
+          "description": "A fully open source and end-to-end encrypted note taking alternative to Evernote.",
+          "title": "Notesnook",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-20T11:41:57Z",
+            "owner": "streetwriters",
+            "repo": "notesnook",
+            "stars": 13703
           }
         },
         {
@@ -3077,7 +3251,7 @@
           }
         }
       ],
-      "title": "✏️ Text (12)"
+      "title": "✏️ Text (13)"
     },
     {
       "description": "",
@@ -3089,7 +3263,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-02-19T14:53:28Z",
+            "last_commit": "2026-02-20T15:23:40Z",
             "owner": "adguardteam",
             "repo": "adguardforsafari",
             "stars": 1174
@@ -3131,7 +3305,7 @@
             "last_commit": "2025-12-03T03:19:10Z",
             "owner": "artginzburg",
             "repo": "MiddleClick-Ventura",
-            "stars": 2451
+            "stars": 2453
           }
         },
         {
@@ -3248,11 +3422,24 @@
             "last_commit": "2020-09-12T00:26:49Z",
             "owner": "Swift-open-source",
             "repo": "UltraTabSaver",
-            "stars": 286
+            "stars": 287
+          }
+        },
+        {
+          "children": [],
+          "description": "Yet Another PiP Extension. Finds all HTML5 videos on a webpage and allows you to play them in Picture-in-Picture mode from the Safari toolbar.",
+          "title": "Yape",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-12-25T17:10:09Z",
+            "owner": "leonspok",
+            "repo": "Yape",
+            "stars": 17
           }
         }
       ],
-      "title": "🧩 Extensions (13)"
+      "title": "🧩 Extensions (14)"
     },
     {
       "description": "",
@@ -3280,7 +3467,7 @@
             "last_commit": "2024-06-29T14:02:13Z",
             "owner": "Clipy",
             "repo": "Clipy",
-            "stars": 8382
+            "stars": 8387
           }
         },
         {
@@ -3290,10 +3477,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-19T14:13:44Z",
+            "last_commit": "2026-02-20T11:33:39Z",
             "owner": "hluk",
             "repo": "CopyQ",
-            "stars": 11215
+            "stars": 11221
           }
         },
         {
@@ -3306,7 +3493,7 @@
             "last_commit": "2026-01-06T18:34:01Z",
             "owner": "arsenetar",
             "repo": "dupeguru",
-            "stars": 7323
+            "stars": 7327
           }
         },
         {
@@ -3350,6 +3537,19 @@
         },
         {
           "children": [],
+          "description": "A lightweight, cross-platform file manager with a dual-pane interface.",
+          "title": "muCommander",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-20T16:02:06Z",
+            "owner": "mucommander",
+            "repo": "mucommander",
+            "stars": 1173
+          }
+        },
+        {
+          "children": [],
           "description": "Finder toolbar app to open current folder in Visual Studio Code.",
           "title": "OpenInCode",
           "repo_info": {
@@ -3384,7 +3584,20 @@
             "last_commit": "2026-02-19T20:03:11Z",
             "owner": "sindresorhus",
             "repo": "quick-look-plugins",
-            "stars": 18557
+            "stars": 18558
+          }
+        },
+        {
+          "children": [],
+          "description": "Finder extension with 51+ right-click actions for file management, image conversion, and developer tools.",
+          "title": "SaneClick",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-21T03:17:13Z",
+            "owner": "sane-apps",
+            "repo": "SaneClick",
+            "stars": 1
           }
         },
         {
@@ -3397,11 +3610,11 @@
             "last_commit": "2026-02-18T19:43:35Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 33569
+            "stars": 33608
           }
         }
       ],
-      "title": "🔍 Finder (11)"
+      "title": "🔍 Finder (13)"
     },
     {
       "description": "",
@@ -3413,15 +3626,28 @@
         },
         {
           "children": [],
+          "description": "Fun Tic Tac Toe game equipped with multiplayer (local and online) and leveled single player available on the App Store.",
+          "title": "Amazing Tic Tac Toe",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-09-05T20:14:59Z",
+            "owner": "Aries-Sciences-LLC",
+            "repo": "Tic-Tac-Toe",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
           "description": "Turn-based tactical strategy game, featuring both single-player and online multiplayer combat.",
           "title": "Battle for Wesnoth",
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T01:03:41Z",
+            "last_commit": "2026-02-20T23:28:31Z",
             "owner": "wesnoth",
             "repo": "wesnoth",
-            "stars": 6450
+            "stars": 6451
           }
         },
         {
@@ -3449,10 +3675,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-19T22:36:54Z",
+            "last_commit": "2026-02-21T03:31:13Z",
             "owner": "dolphin-emu",
             "repo": "dolphin",
-            "stars": 14645
+            "stars": 14644
           }
         },
         {
@@ -3478,7 +3704,7 @@
             "last_commit": "2025-10-22T21:39:10Z",
             "owner": "OpenEmu",
             "repo": "OpenEmu",
-            "stars": 17368
+            "stars": 17370
           }
         },
         {
@@ -3488,10 +3714,23 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-19T21:50:09Z",
+            "last_commit": "2026-02-20T21:05:03Z",
             "owner": "OpenRCT2",
             "repo": "OpenRCT2",
-            "stars": 15210
+            "stars": 15213
+          }
+        },
+        {
+          "children": [],
+          "description": "An elegant Go/Baduk/Weiqi board and SGF editor for a more civilized age.",
+          "title": "Sabaki",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-18T04:26:32Z",
+            "owner": "SabakiHQ",
+            "repo": "Sabaki",
+            "stars": 2647
           }
         },
         {
@@ -3527,14 +3766,14 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-19T19:42:47Z",
+            "last_commit": "2026-02-20T21:01:49Z",
             "owner": "widelands",
             "repo": "widelands",
-            "stars": 2187
+            "stars": 2186
           }
         }
       ],
-      "title": "🎮 Games (11)"
+      "title": "🎮 Games (13)"
     },
     {
       "description": "",
@@ -3549,7 +3788,7 @@
             "last_commit": "2026-02-13T20:59:13Z",
             "owner": "aseprite",
             "repo": "aseprite",
-            "stars": 35753
+            "stars": 35771
           }
         },
         {
@@ -3582,10 +3821,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-19T22:20:31Z",
+            "last_commit": "2026-02-21T02:20:22Z",
             "owner": "FreeCAD",
             "repo": "FreeCAD",
-            "stars": 28657
+            "stars": 28705
           }
         },
         {
@@ -3598,7 +3837,7 @@
             "last_commit": "2026-02-17T00:41:41Z",
             "owner": "gaphor",
             "repo": "gaphor",
-            "stars": 2195
+            "stars": 2194
           }
         },
         {
@@ -3637,7 +3876,7 @@
             "last_commit": "2026-01-07T16:59:26Z",
             "owner": "sindresorhus",
             "repo": "Gifski",
-            "stars": 8310
+            "stars": 8309
           }
         },
         {
@@ -3665,10 +3904,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-16T10:28:39Z",
+            "last_commit": "2026-02-20T23:41:03Z",
             "owner": "LibreCAD",
             "repo": "LibreCAD",
-            "stars": 5609
+            "stars": 5610
           }
         },
         {
@@ -3707,7 +3946,7 @@
             "last_commit": "2026-02-16T07:21:51Z",
             "owner": "cartesiancs",
             "repo": "nugget-app",
-            "stars": 530
+            "stars": 531
           }
         },
         {
@@ -3720,7 +3959,7 @@
             "last_commit": "2026-02-15T04:28:36Z",
             "owner": "pencil2d",
             "repo": "pencil",
-            "stars": 1655
+            "stars": 1656
           }
         },
         {
@@ -3749,23 +3988,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-19T19:20:24Z",
+            "last_commit": "2026-02-20T07:42:44Z",
             "owner": "apache",
             "repo": "netbeans",
-            "stars": 3016
-          }
-        },
-        {
-          "children": [],
-          "description": "The hackable text editor.",
-          "title": "Atom",
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-01-03T10:49:48Z",
-            "owner": "atom",
-            "repo": "atom",
-            "stars": 61016
+            "stars": 3018
           }
         },
         {
@@ -3804,7 +4030,20 @@
             "last_commit": "2025-12-14T15:55:34Z",
             "owner": "CodeEditApp",
             "repo": "CodeEdit",
-            "stars": 22676
+            "stars": 22677
+          }
+        },
+        {
+          "children": [],
+          "description": "Eclipse is an open-source integrated development environment (IDE) used in computer programming, featuring a base workspace and an extensible plug-in system for customizing the environment.",
+          "title": "Eclipse",
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-20T23:02:54Z",
+            "owner": "eclipse-platform",
+            "repo": "eclipse.platform",
+            "stars": 142
           }
         },
         {
@@ -3827,10 +4066,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-20T03:34:21Z",
+            "last_commit": "2026-02-21T03:28:09Z",
             "owner": "JetBrains",
             "repo": "intellij-community",
-            "stars": 19722
+            "stars": 19727
           }
         },
         {
@@ -3869,7 +4108,7 @@
             "last_commit": "2026-02-19T18:13:40Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 39878
+            "stars": 39887
           }
         },
         {
@@ -3879,10 +4118,36 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-20T04:14:42Z",
+            "last_commit": "2026-02-21T03:42:25Z",
             "owner": "Microsoft",
             "repo": "vscode",
-            "stars": 181916
+            "stars": 181946
+          }
+        },
+        {
+          "children": [],
+          "description": "VSCodium is a community-driven, freely-licensed binary distribution of Microsoft's VS Code with all telemetry removed.",
+          "title": "VSCodium",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-20T18:39:01Z",
+            "owner": "VSCodium",
+            "repo": "vscodium",
+            "stars": 30220
+          }
+        },
+        {
+          "children": [],
+          "description": "Zed is an open source, high-performance, and multiplayer code editor",
+          "title": "Zed",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-21T01:43:28Z",
+            "owner": "zed-industries",
+            "repo": "zed",
+            "stars": 75698
           }
         },
         {
@@ -3899,7 +4164,7 @@
           }
         }
       ],
-      "title": "💻 IDE (12)"
+      "title": "💻 IDE (14)"
     },
     {
       "description": "",
@@ -3940,7 +4205,7 @@
             "last_commit": "2026-02-17T16:51:55Z",
             "owner": "szTheory",
             "repo": "exifcleaner",
-            "stars": 2353
+            "stars": 2355
           }
         },
         {
@@ -3953,7 +4218,7 @@
             "last_commit": "2026-02-19T12:03:53Z",
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 29330
+            "stars": 29333
           }
         },
         {
@@ -3976,10 +4241,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-20T02:48:39Z",
+            "last_commit": "2026-02-21T00:08:11Z",
             "owner": "GNOME",
             "repo": "gimp",
-            "stars": 5967
+            "stars": 5969
           }
         },
         {
@@ -4033,10 +4298,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-20T03:11:49Z",
+            "last_commit": "2026-02-21T03:04:20Z",
             "owner": "invesalius",
             "repo": "invesalius3",
-            "stars": 759
+            "stars": 760
           }
         },
         {
@@ -4093,7 +4358,7 @@
             "last_commit": "2025-11-17T19:25:56Z",
             "owner": "robaho",
             "repo": "seashore",
-            "stars": 528
+            "stars": 529
           }
         },
         {
@@ -4151,7 +4416,7 @@
             "last_commit": "2025-08-15T05:38:57Z",
             "owner": "yqrashawn",
             "repo": "GokuRakuJoudo",
-            "stars": 1381
+            "stars": 1384
           }
         },
         {
@@ -4187,10 +4452,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-17T23:49:56Z",
+            "last_commit": "2026-02-21T01:15:00Z",
             "owner": "pqrs-org",
             "repo": "Karabiner-Elements",
-            "stars": 21541
+            "stars": 21546
           }
         },
         {
@@ -4216,7 +4481,7 @@
             "last_commit": "2025-12-07T02:23:01Z",
             "owner": "keycastr",
             "repo": "keycastr",
-            "stars": 14601
+            "stars": 14605
           }
         },
         {
@@ -4287,7 +4552,7 @@
             "last_commit": "2026-02-18T00:12:57Z",
             "owner": "vladimiry",
             "repo": "ElectronMail",
-            "stars": 1640
+            "stars": 1639
           }
         },
         {
@@ -4297,10 +4562,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-18T15:37:36Z",
+            "last_commit": "2026-02-21T03:20:50Z",
             "owner": "Foundry376",
             "repo": "Mailspring",
-            "stars": 17238
+            "stars": 17242
           }
         },
         {
@@ -4376,7 +4641,7 @@
             "last_commit": "2025-09-04T14:41:18Z",
             "owner": "tonsky",
             "repo": "AnyBar",
-            "stars": 6025
+            "stars": 6026
           }
         },
         {
@@ -4433,6 +4698,19 @@
         },
         {
           "children": [],
+          "description": "Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.",
+          "title": "ClipFlow",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-20T05:00:20Z",
+            "owner": "praneeth552",
+            "repo": "clipflow",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
           "description": "Simple menu bar macOS application for displaying lists of your iCloud Tabs and Reading List.",
           "title": "CloudyTabs",
           "repo_info": {
@@ -4480,7 +4758,7 @@
             "last_commit": "2023-11-30T13:45:27Z",
             "owner": "Mortennn",
             "repo": "Dozer",
-            "stars": 8613
+            "stars": 8614
           }
         },
         {
@@ -4532,7 +4810,7 @@
             "last_commit": "2025-11-06T15:27:28Z",
             "owner": "dwarvesf",
             "repo": "hidden",
-            "stars": 13360
+            "stars": 13363
           }
         },
         {
@@ -4545,7 +4823,7 @@
             "last_commit": "2025-09-20T20:28:17Z",
             "owner": "jordanbaird",
             "repo": "Ice",
-            "stars": 26062
+            "stars": 26065
           }
         },
         {
@@ -4623,7 +4901,7 @@
             "last_commit": "2026-01-29T22:22:38Z",
             "owner": "leits",
             "repo": "MeetingBar",
-            "stars": 5120
+            "stars": 5122
           }
         },
         {
@@ -4714,7 +4992,20 @@
             "last_commit": "2024-05-28T13:24:21Z",
             "owner": "insidegui",
             "repo": "NoiseBuddy",
-            "stars": 733
+            "stars": 732
+          }
+        },
+        {
+          "children": [],
+          "description": "All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts",
+          "title": "OnlySwitch",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-06T18:45:07Z",
+            "owner": "jacklandrin",
+            "repo": "OnlySwitch",
+            "stars": 5495
           }
         },
         {
@@ -4737,7 +5028,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-02-01T19:10:02Z",
+            "last_commit": "2026-02-20T10:05:55Z",
             "owner": "Bunn",
             "repo": "PiStats",
             "stars": 404
@@ -4766,7 +5057,7 @@
             "last_commit": "2026-02-20T01:33:36Z",
             "owner": "nbolar",
             "repo": "PlayStatus",
-            "stars": 170
+            "stars": 169
           }
         },
         {
@@ -4780,6 +5071,19 @@
             "owner": "nikhilsh",
             "repo": "PSIBar",
             "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple and elegant menubar weather app on the App Store.",
+          "title": "Quick Weather",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-09-05T20:20:02Z",
+            "owner": "Aries-Sciences-LLC",
+            "repo": "Quick-Weather",
+            "stars": 2
           }
         },
         {
@@ -4805,7 +5109,33 @@
             "last_commit": "2026-02-19T10:36:10Z",
             "owner": "unsecretised",
             "repo": "rustcast",
-            "stars": 348
+            "stars": 354
+          }
+        },
+        {
+          "children": [],
+          "description": "Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and automation triggers.",
+          "title": "SaneBar",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-21T03:17:05Z",
+            "owner": "sane-apps",
+            "repo": "SaneBar",
+            "stars": 183
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple screenshotting utility for thinking clearly.",
+          "title": "ScreenHint",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-05-15T19:33:12Z",
+            "owner": "salemhilal",
+            "repo": "ScreenHint",
+            "stars": 16
           }
         },
         {
@@ -4818,7 +5148,7 @@
             "last_commit": "2024-02-17T11:53:20Z",
             "owner": "archagon",
             "repo": "sensible-side-buttons",
-            "stars": 2054
+            "stars": 2055
           }
         },
         {
@@ -4831,7 +5161,7 @@
             "last_commit": "2022-09-04T18:24:11Z",
             "owner": "thompsonate",
             "repo": "Shifty",
-            "stars": 1285
+            "stars": 1286
           }
         },
         {
@@ -4857,7 +5187,7 @@
             "last_commit": "2026-02-15T17:09:09Z",
             "owner": "exelban",
             "repo": "stats",
-            "stars": 36541
+            "stars": 36551
           }
         },
         {
@@ -4870,7 +5200,7 @@
             "last_commit": "2026-02-07T14:29:49Z",
             "owner": "swiftbar",
             "repo": "SwiftBar",
-            "stars": 3735
+            "stars": 3738
           }
         },
         {
@@ -4883,7 +5213,7 @@
             "last_commit": "2026-02-18T15:19:40Z",
             "owner": "WINBIGFOX",
             "repo": "timescribe",
-            "stars": 734
+            "stars": 735
           }
         },
         {
@@ -4896,7 +5226,7 @@
             "last_commit": "2026-02-18T15:19:40Z",
             "owner": "WINBIGFOX",
             "repo": "timescribe",
-            "stars": 734
+            "stars": 735
           }
         },
         {
@@ -4935,11 +5265,11 @@
             "last_commit": "2024-09-10T10:18:51Z",
             "owner": "matryer",
             "repo": "xbar",
-            "stars": 18003
+            "stars": 18004
           }
         }
       ],
-      "title": "📊 Menubar (46)"
+      "title": "📊 Menubar (51)"
     },
     {
       "description": "",
@@ -4954,7 +5284,7 @@
             "last_commit": "2025-04-27T17:03:36Z",
             "owner": "AnaghSharma",
             "repo": "Carol",
-            "stars": 127
+            "stars": 129
           }
         },
         {
@@ -5006,7 +5336,7 @@
             "last_commit": "2026-02-14T22:39:32Z",
             "owner": "bhj",
             "repo": "KaraokeEternal",
-            "stars": 696
+            "stars": 697
           }
         },
         {
@@ -5042,10 +5372,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-19T18:18:56Z",
+            "last_commit": "2026-02-21T00:36:35Z",
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 34115
+            "stars": 34130
           }
         },
         {
@@ -5058,7 +5388,7 @@
             "last_commit": "2024-05-28T13:24:21Z",
             "owner": "insidegui",
             "repo": "NoiseBuddy",
-            "stars": 733
+            "stars": 732
           }
         },
         {
@@ -5071,7 +5401,7 @@
             "last_commit": "2026-02-20T01:33:36Z",
             "owner": "nbolar",
             "repo": "PlayStatus",
-            "stars": 170
+            "stars": 169
           }
         },
         {
@@ -5097,7 +5427,7 @@
             "last_commit": "2022-04-29T15:23:52Z",
             "owner": "salomvary",
             "repo": "soundcleod",
-            "stars": 962
+            "stars": 961
           }
         },
         {
@@ -5110,7 +5440,7 @@
             "last_commit": "2026-02-20T02:34:35Z",
             "owner": "spicetify",
             "repo": "spicetify-cli",
-            "stars": 22182
+            "stars": 22194
           }
         },
         {
@@ -5128,6 +5458,19 @@
         },
         {
           "children": [],
+          "description": "An all-in-one digital audio workstation (DAW) and plugin suite",
+          "title": "StargateDAW",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-21T17:51:22Z",
+            "owner": "stargatedaw",
+            "repo": "stargate",
+            "stars": 808
+          }
+        },
+        {
+          "children": [],
           "description": "macOS wrapper for music.youtube.com.",
           "title": "YouTube-Music",
           "repo_info": {
@@ -5140,7 +5483,7 @@
           }
         }
       ],
-      "title": "🎧 Music (15)"
+      "title": "🎧 Music (16)"
     },
     {
       "description": "",
@@ -5194,7 +5537,7 @@
             "last_commit": "2026-02-19T06:52:27Z",
             "owner": "Ranchero-Software",
             "repo": "NetNewsWire",
-            "stars": 9705
+            "stars": 9709
           }
         },
         {
@@ -5207,7 +5550,7 @@
             "last_commit": "2026-02-18T06:52:43Z",
             "owner": "ViennaRSS",
             "repo": "vienna-rss",
-            "stars": 1947
+            "stars": 1948
           }
         },
         {
@@ -5220,7 +5563,7 @@
             "last_commit": "2021-10-11T20:32:23Z",
             "owner": "GetStream",
             "repo": "Winds",
-            "stars": 9357
+            "stars": 9358
           }
         }
       ],
@@ -5231,6 +5574,11 @@
       "items": [
         {
           "children": [],
+          "description": "Use BibDesk to edit and manage your bibliography",
+          "title": "BibDesk"
+        },
+        {
+          "children": [],
           "description": "Note-taking application made for programmers just like you.",
           "title": "Boostnote",
           "repo_info": {
@@ -5239,7 +5587,7 @@
             "last_commit": "2023-04-19T08:46:06Z",
             "owner": "BoostIO",
             "repo": "BoostNote-Legacy",
-            "stars": 16974
+            "stars": 16975
           }
         },
         {
@@ -5278,7 +5626,7 @@
             "last_commit": "2026-02-14T10:22:16Z",
             "owner": "glushchenko",
             "repo": "fsnotes",
-            "stars": 7231
+            "stars": 7230
           }
         },
         {
@@ -5288,10 +5636,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-19T23:33:46Z",
+            "last_commit": "2026-02-20T21:47:46Z",
             "owner": "laurent22",
             "repo": "joplin",
-            "stars": 53497
+            "stars": 53508
           }
         },
         {
@@ -5361,6 +5709,19 @@
         },
         {
           "children": [],
+          "description": "A fully open source and end-to-end encrypted note taking alternative to Evernote.",
+          "title": "Notesnook",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-20T11:41:57Z",
+            "owner": "streetwriters",
+            "repo": "notesnook",
+            "stars": 13703
+          }
+        },
+        {
+          "children": [],
           "description": "Simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing.",
           "title": "NoteTaker",
           "repo_info": {
@@ -5379,10 +5740,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-19T19:30:24Z",
+            "last_commit": "2026-02-20T20:47:24Z",
             "owner": "pbek",
             "repo": "QOwnNotes",
-            "stars": 5602
+            "stars": 5601
           }
         },
         {
@@ -5405,10 +5766,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-20T02:10:24Z",
+            "last_commit": "2026-02-21T02:57:53Z",
             "owner": "standardnotes",
             "repo": "app",
-            "stars": 6287
+            "stars": 6289
           }
         },
         {
@@ -5418,10 +5779,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-19T14:55:42Z",
+            "last_commit": "2026-02-20T17:04:59Z",
             "owner": "0xMassi",
             "repo": "stik_app",
-            "stars": 115
+            "stars": 116
           }
         },
         {
@@ -5451,7 +5812,7 @@
           }
         }
       ],
-      "title": "📔 Notes (17)"
+      "title": "📔 Notes (19)"
     },
     {
       "description": "",
@@ -5463,10 +5824,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-19T17:55:54Z",
+            "last_commit": "2026-02-20T21:45:44Z",
             "owner": "betaflight",
             "repo": "betaflight-configurator",
-            "stars": 3062
+            "stars": 3064
           }
         },
         {
@@ -5479,7 +5840,7 @@
             "last_commit": "2024-01-07T13:10:07Z",
             "owner": "brunophilipe",
             "repo": "Cakebrew",
-            "stars": 5005
+            "stars": 5006
           }
         },
         {
@@ -5489,10 +5850,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-17T12:54:54Z",
+            "last_commit": "2026-02-20T15:28:41Z",
             "owner": "esrlabs",
             "repo": "chipmunk",
-            "stars": 700
+            "stars": 699
           }
         },
         {
@@ -5505,7 +5866,7 @@
             "last_commit": "2023-03-04T04:36:45Z",
             "owner": "dteoh",
             "repo": "devdocs-macos",
-            "stars": 478
+            "stars": 479
           }
         },
         {
@@ -5519,6 +5880,19 @@
             "owner": "2ndalpha",
             "repo": "gasmask",
             "stars": 3817
+          }
+        },
+        {
+          "children": [],
+          "description": "A genealogy program that is both intuitive for hobbyists and feature-complete for professional genealogists.",
+          "title": "Gramps",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T17:56:59Z",
+            "owner": "gramps-project",
+            "repo": "gramps",
+            "stars": 2824
           }
         },
         {
@@ -5544,7 +5918,7 @@
             "last_commit": "2023-10-29T16:56:33Z",
             "owner": "ImageOptim",
             "repo": "ImageOptim",
-            "stars": 9731
+            "stars": 9732
           }
         },
         {
@@ -5570,7 +5944,7 @@
             "last_commit": "2025-11-18T04:04:53Z",
             "owner": "hackjutsu",
             "repo": "Lepton",
-            "stars": 10324
+            "stars": 10325
           }
         },
         {
@@ -5597,6 +5971,19 @@
             "owner": "Bunn",
             "repo": "macGist",
             "stars": 130
+          }
+        },
+        {
+          "children": [],
+          "description": "Beautiful calculator app for macOS",
+          "title": "Numi",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-20T05:36:55Z",
+            "owner": "nikolaeu",
+            "repo": "numi",
+            "stars": 6346
           }
         },
         {
@@ -5648,7 +6035,7 @@
             "last_commit": "2025-10-13T17:13:49Z",
             "owner": "infinitered",
             "repo": "reactotron",
-            "stars": 15508
+            "stars": 15511
           }
         },
         {
@@ -5687,7 +6074,7 @@
             "last_commit": "2021-12-22T00:59:05Z",
             "owner": "fitztrev",
             "repo": "shuttle",
-            "stars": 4594
+            "stars": 4595
           }
         },
         {
@@ -5700,7 +6087,20 @@
             "last_commit": "2024-11-26T10:13:07Z",
             "owner": "SwiftyBeaver",
             "repo": "SwiftyBeaver",
-            "stars": 6073
+            "stars": 6072
+          }
+        },
+        {
+          "children": [],
+          "description": "Simple commands shortcut menu for macOS.",
+          "title": "SwitchShuttle",
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-29T09:34:36Z",
+            "owner": "s00d",
+            "repo": "switchshuttle",
+            "stars": 121
           }
         },
         {
@@ -5739,11 +6139,11 @@
             "last_commit": "2020-05-31T13:19:46Z",
             "owner": "lanayotech",
             "repo": "vagrant-manager",
-            "stars": 1863
+            "stars": 1862
           }
         }
       ],
-      "title": "📦 Other (22)"
+      "title": "📦 Other (25)"
     },
     {
       "description": "",
@@ -5758,7 +6158,7 @@
             "last_commit": "2026-02-18T18:52:07Z",
             "owner": "iina",
             "repo": "iina",
-            "stars": 43854
+            "stars": 43862
           }
         },
         {
@@ -5807,10 +6207,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-19T18:18:56Z",
+            "last_commit": "2026-02-21T00:36:35Z",
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 34115
+            "stars": 34130
           }
         },
         {
@@ -5881,7 +6281,7 @@
             "last_commit": "2025-12-21T20:49:01Z",
             "owner": "muammar",
             "repo": "mkchromecast",
-            "stars": 2332
+            "stars": 2333
           }
         },
         {
@@ -5920,7 +6320,7 @@
             "last_commit": "2021-10-11T20:32:23Z",
             "owner": "GetStream",
             "repo": "Winds",
-            "stars": 9357
+            "stars": 9358
           }
         }
       ],
@@ -5929,6 +6329,19 @@
     {
       "description": "",
       "items": [
+        {
+          "children": [],
+          "description": "Open-source automated time tracker that tracks how you spend time on your devices.",
+          "title": "ActivityWatch",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-20T15:39:28Z",
+            "owner": "ActivityWatch",
+            "repo": "activitywatch",
+            "stars": 16732
+          }
+        },
         {
           "children": [],
           "description": "Elegant Microsoft To-Do desktop app.",
@@ -5941,6 +6354,24 @@
             "repo": "ao",
             "stars": 2180
           }
+        },
+        {
+          "children": [],
+          "description": "Find and install macOS apps from Homebrew Cask and Fairground App catalogs.",
+          "title": "App Fair",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-03-22T13:36:54Z",
+            "owner": "App-Fair",
+            "repo": "App",
+            "stars": 65
+          }
+        },
+        {
+          "children": [],
+          "description": "Use BibDesk to edit and manage your bibliography",
+          "title": "BibDesk"
         },
         {
           "children": [],
@@ -5988,10 +6419,36 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-08T18:15:45Z",
+            "last_commit": "2026-02-20T17:16:01Z",
             "owner": "cerebroapp",
             "repo": "cerebro",
             "stars": 8528
+          }
+        },
+        {
+          "children": [],
+          "description": "Clendar is an universal calendar app. Written in SwiftUI.",
+          "title": "Clendar",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-17T11:32:10Z",
+            "owner": "vinhnx",
+            "repo": "Clendar",
+            "stars": 701
+          }
+        },
+        {
+          "children": [],
+          "description": "An easy-to-use clipboard manager with time saving features that work across all terminals.",
+          "title": "Clipboard",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-11T15:44:24Z",
+            "owner": "Slackadays",
+            "repo": "Clipboard",
+            "stars": 5678
           }
         },
         {
@@ -6043,7 +6500,7 @@
             "last_commit": "2023-07-07T01:38:19Z",
             "owner": "dustinrue",
             "repo": "ControlPlane",
-            "stars": 1781
+            "stars": 1782
           }
         },
         {
@@ -6087,7 +6544,7 @@
             "last_commit": "2026-02-15T00:23:03Z",
             "owner": "espanso",
             "repo": "espanso",
-            "stars": 13161
+            "stars": 13170
           }
         },
         {
@@ -6100,7 +6557,7 @@
             "last_commit": "2026-02-19T06:23:22Z",
             "owner": "elfmz",
             "repo": "far2l",
-            "stars": 2119
+            "stars": 2121
           }
         },
         {
@@ -6110,10 +6567,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-19T16:56:19Z",
+            "last_commit": "2026-02-20T20:37:31Z",
             "owner": "filearchitect",
             "repo": "app",
-            "stars": 2
+            "stars": 4
           }
         },
         {
@@ -6126,7 +6583,20 @@
             "last_commit": "2022-12-23T04:10:00Z",
             "owner": "TermiT",
             "repo": "flycut",
-            "stars": 2659
+            "stars": 2658
+          }
+        },
+        {
+          "children": [],
+          "description": "App that allows you to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them.",
+          "title": "Freeter",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-18T08:30:18Z",
+            "owner": "FreeterApp",
+            "repo": "Freeter",
+            "stars": 942
           }
         },
         {
@@ -6139,7 +6609,7 @@
             "last_commit": "2025-09-20T20:28:17Z",
             "owner": "jordanbaird",
             "repo": "Ice",
-            "stars": 26062
+            "stars": 26065
           }
         },
         {
@@ -6243,7 +6713,7 @@
             "last_commit": "2026-02-10T15:10:20Z",
             "owner": "p0deje",
             "repo": "Maccy",
-            "stars": 18635
+            "stars": 18639
           }
         },
         {
@@ -6269,7 +6739,7 @@
             "last_commit": "2025-02-02T23:27:16Z",
             "owner": "hql287",
             "repo": "Manta",
-            "stars": 5432
+            "stars": 5433
           }
         },
         {
@@ -6282,7 +6752,7 @@
             "last_commit": "2026-01-29T22:22:38Z",
             "owner": "leits",
             "repo": "MeetingBar",
-            "stars": 5120
+            "stars": 5122
           }
         },
         {
@@ -6295,7 +6765,33 @@
             "last_commit": "2025-12-03T03:19:10Z",
             "owner": "artginzburg",
             "repo": "MiddleClick-Ventura",
-            "stars": 2451
+            "stars": 2453
+          }
+        },
+        {
+          "children": [],
+          "description": "Beautiful calculator app for macOS",
+          "title": "Numi",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-20T05:36:55Z",
+            "owner": "nikolaeu",
+            "repo": "numi",
+            "stars": 6346
+          }
+        },
+        {
+          "children": [],
+          "description": "Your ultimate GPT companion for seamless access on your Mac",
+          "title": "OmniPrompt",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-07-31T07:04:56Z",
+            "owner": "nsmet",
+            "repo": "omniprompt-gpt-mac-app",
+            "stars": 11
           }
         },
         {
@@ -6318,7 +6814,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-02-19T21:09:30Z",
+            "last_commit": "2026-02-20T14:09:36Z",
             "owner": "PDF-Archiver",
             "repo": "PDF-Archiver",
             "stars": 328
@@ -6347,7 +6843,7 @@
             "last_commit": "2023-10-11T02:07:35Z",
             "owner": "ziulev",
             "repo": "pomodoro-cycle-app",
-            "stars": 89
+            "stars": 90
           }
         },
         {
@@ -6357,10 +6853,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-19T19:30:24Z",
+            "last_commit": "2026-02-20T20:47:24Z",
             "owner": "pbek",
             "repo": "QOwnNotes",
-            "stars": 5602
+            "stars": 5601
           }
         },
         {
@@ -6373,7 +6869,7 @@
             "last_commit": "2026-02-18T23:31:50Z",
             "owner": "quicksilver",
             "repo": "Quicksilver",
-            "stars": 2848
+            "stars": 2849
           }
         },
         {
@@ -6399,7 +6895,7 @@
             "last_commit": "2026-02-18T13:28:10Z",
             "owner": "readest",
             "repo": "readest",
-            "stars": 17588
+            "stars": 17775
           }
         },
         {
@@ -6425,7 +6921,46 @@
             "last_commit": "2026-02-19T10:36:10Z",
             "owner": "unsecretised",
             "repo": "rustcast",
-            "stars": 348
+            "stars": 354
+          }
+        },
+        {
+          "children": [],
+          "description": "Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection.",
+          "title": "SaneClip",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-21T03:17:20Z",
+            "owner": "sane-apps",
+            "repo": "SaneClip",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Universal indie sales tracker for LemonSqueezy, Gumroad, and Stripe with on-device privacy.",
+          "title": "SaneSales",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-21T03:17:21Z",
+            "owner": "sane-apps",
+            "repo": "SaneSales",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "A simple screenshotting utility for thinking clearly.",
+          "title": "ScreenHint",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-05-15T19:33:12Z",
+            "owner": "salemhilal",
+            "repo": "ScreenHint",
+            "stars": 16
           }
         },
         {
@@ -6435,10 +6970,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-02-20T01:57:39Z",
+            "last_commit": "2026-02-21T03:57:47Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 16932
+            "stars": 16942
           }
         },
         {
@@ -6451,7 +6986,7 @@
             "last_commit": "2025-12-29T17:15:05Z",
             "owner": "SelfControlApp",
             "repo": "selfcontrol",
-            "stars": 4307
+            "stars": 4309
           }
         },
         {
@@ -6465,6 +7000,19 @@
             "owner": "AlexPerathoner",
             "repo": "Sessions",
             "stars": 165
+          }
+        },
+        {
+          "children": [],
+          "description": "App icon assets generator written in SwiftUI",
+          "title": "Slime",
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2023-01-08T16:26:54Z",
+            "owner": "Mas0nSun",
+            "repo": "Slime",
+            "stars": 49
           }
         },
         {
@@ -6503,7 +7051,7 @@
             "last_commit": "2025-12-03T04:33:09Z",
             "owner": "sqlectron",
             "repo": "sqlectron-gui",
-            "stars": 4731
+            "stars": 4732
           }
         },
         {
@@ -6542,7 +7090,7 @@
             "last_commit": "2025-06-07T23:46:53Z",
             "owner": "khrykin",
             "repo": "StrategrDesktop",
-            "stars": 339
+            "stars": 340
           }
         },
         {
@@ -6552,10 +7100,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-13T08:20:15Z",
+            "last_commit": "2026-02-20T11:15:48Z",
             "owner": "hovancik",
             "repo": "stretchly",
-            "stars": 5905
+            "stars": 5908
           }
         },
         {
@@ -6565,10 +7113,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-18T04:56:49Z",
+            "last_commit": "2026-02-20T23:12:48Z",
             "owner": "johannesjo",
             "repo": "super-productivity",
-            "stars": 17535
+            "stars": 17549
           }
         },
         {
@@ -6633,7 +7181,7 @@
             "last_commit": "2026-02-18T15:19:40Z",
             "owner": "WINBIGFOX",
             "repo": "timescribe",
-            "stars": 734
+            "stars": 735
           }
         },
         {
@@ -6646,7 +7194,7 @@
             "last_commit": "2026-02-18T15:19:40Z",
             "owner": "WINBIGFOX",
             "repo": "timescribe",
-            "stars": 734
+            "stars": 735
           }
         },
         {
@@ -6672,7 +7220,7 @@
             "last_commit": "2026-02-19T14:21:01Z",
             "owner": "ivoronin",
             "repo": "TomatoBar",
-            "stars": 3146
+            "stars": 3147
           }
         },
         {
@@ -6695,10 +7243,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-19T13:18:06Z",
+            "last_commit": "2026-02-20T15:40:42Z",
             "owner": "oliverschwendener",
             "repo": "ueli",
-            "stars": 4456
+            "stars": 4457
           }
         },
         {
@@ -6711,7 +7259,7 @@
             "last_commit": "2020-09-12T00:26:49Z",
             "owner": "Swift-open-source",
             "repo": "UltraTabSaver",
-            "stars": 286
+            "stars": 287
           }
         },
         {
@@ -6747,10 +7295,23 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T02:00:40Z",
+            "last_commit": "2026-02-21T02:00:49Z",
             "owner": "xournalpp",
             "repo": "xournalpp",
-            "stars": 14328
+            "stars": 14330
+          }
+        },
+        {
+          "children": [],
+          "description": "macOS open source clipboard manager",
+          "title": "Yippy",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-02-13T19:58:44Z",
+            "owner": "mattDavo",
+            "repo": "Yippy",
+            "stars": 391
           }
         },
         {
@@ -6767,7 +7328,7 @@
           }
         }
       ],
-      "title": "⏱️ Productivity (65)"
+      "title": "⏱️ Productivity (78)"
     },
     {
       "description": "",
@@ -6782,7 +7343,7 @@
             "last_commit": "2025-08-12T15:58:24Z",
             "owner": "JohnCoates",
             "repo": "Aerial",
-            "stars": 20948
+            "stars": 20946
           }
         },
         {
@@ -6928,10 +7489,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-19T20:57:17Z",
+            "last_commit": "2026-02-20T17:51:57Z",
             "owner": "cryptomator",
             "repo": "cryptomator",
-            "stars": 14620
+            "stars": 14627
           }
         },
         {
@@ -6944,7 +7505,7 @@
             "last_commit": "2026-02-01T21:57:03Z",
             "owner": "objective-see",
             "repo": "LuLu",
-            "stars": 12022
+            "stars": 12024
           }
         },
         {
@@ -6988,6 +7549,32 @@
         },
         {
           "children": [],
+          "description": "Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection.",
+          "title": "SaneClip",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-21T03:17:20Z",
+            "owner": "sane-apps",
+            "repo": "SaneClip",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "System-level ad and tracker blocker via /etc/hosts with 200+ curated blocklists and Touch ID protection.",
+          "title": "SaneHosts",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-21T03:17:31Z",
+            "owner": "sane-apps",
+            "repo": "SaneHosts",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
           "description": "Easily configure macOS security settings from the terminal.",
           "title": "stronghold",
           "repo_info": {
@@ -7009,7 +7596,7 @@
             "last_commit": "2026-01-23T11:27:48Z",
             "owner": "swiftyapp",
             "repo": "swifty",
-            "stars": 947
+            "stars": 946
           }
         },
         {
@@ -7022,11 +7609,11 @@
             "last_commit": "2025-09-30T03:35:24Z",
             "owner": "veracrypt",
             "repo": "VeraCrypt",
-            "stars": 9220
+            "stars": 9225
           }
         }
       ],
-      "title": "🔒 Security (9)"
+      "title": "🔒 Security (11)"
     },
     {
       "description": "",
@@ -7038,10 +7625,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-19T20:44:16Z",
+            "last_commit": "2026-02-20T13:03:41Z",
             "owner": "iterate-ch",
             "repo": "cyberduck",
-            "stars": 4246
+            "stars": 4250
           }
         },
         {
@@ -7054,8 +7641,26 @@
             "last_commit": "2026-02-16T21:21:58Z",
             "owner": "deluge-torrent",
             "repo": "deluge",
-            "stars": 1730
+            "stars": 1731
           }
+        },
+        {
+          "children": [],
+          "description": "Allows users to easily host their local images to the internet through multiple services and available on App Store.",
+          "title": "Easy Share Uploader",
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2022-07-22T08:59:26Z",
+            "owner": "Aries-Sciences-LLC",
+            "repo": "Easy-Share-Uploader",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Free open-source FTP, FTPS, and SFTP client.",
+          "title": "FileZilla"
         },
         {
           "children": [],
@@ -7093,7 +7698,7 @@
             "last_commit": "2026-02-19T08:39:24Z",
             "owner": "qbittorrent",
             "repo": "qBittorrent",
-            "stars": 35614
+            "stars": 35632
           }
         },
         {
@@ -7129,10 +7734,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T03:11:09Z",
+            "last_commit": "2026-02-20T13:58:15Z",
             "owner": "transmission",
             "repo": "transmission",
-            "stars": 14281
+            "stars": 14291
           }
         },
         {
@@ -7142,14 +7747,14 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-19T15:32:49Z",
+            "last_commit": "2026-02-20T15:04:54Z",
             "owner": "Tribler",
             "repo": "tribler",
             "stars": 5165
           }
         }
       ],
-      "title": "📤 Sharing Files (9)"
+      "title": "📤 Sharing Files (11)"
     },
     {
       "description": "",
@@ -7164,7 +7769,7 @@
             "last_commit": "2026-01-02T00:12:38Z",
             "owner": "sindresorhus",
             "repo": "caprine",
-            "stars": 7320
+            "stars": 7321
           }
         },
         {
@@ -7203,7 +7808,7 @@
             "last_commit": "2026-02-15T16:32:04Z",
             "owner": "rsms",
             "repo": "fb-mac-messenger",
-            "stars": 2844
+            "stars": 2845
           }
         },
         {
@@ -7255,7 +7860,7 @@
             "last_commit": "2023-10-23T16:52:36Z",
             "owner": "Dimillian",
             "repo": "RedditOS",
-            "stars": 4027
+            "stars": 4026
           }
         },
         {
@@ -7297,10 +7902,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-18T20:26:29Z",
+            "last_commit": "2026-02-20T21:35:30Z",
             "owner": "obsproject",
             "repo": "obs-studio",
-            "stars": 70458
+            "stars": 70472
           }
         },
         {
@@ -7449,7 +8054,7 @@
             "last_commit": "2025-10-30T08:48:11Z",
             "owner": "newmarcel",
             "repo": "KeepingYouAwake",
-            "stars": 6272
+            "stars": 6273
           }
         },
         {
@@ -7462,7 +8067,7 @@
             "last_commit": "2026-02-09T19:56:17Z",
             "owner": "mangerlahn",
             "repo": "Latest",
-            "stars": 4428
+            "stars": 4430
           }
         },
         {
@@ -7553,7 +8158,7 @@
             "last_commit": "2025-11-16T12:27:10Z",
             "owner": "sveinbjornt",
             "repo": "Sloth",
-            "stars": 8829
+            "stars": 8831
           }
         },
         {
@@ -7579,7 +8184,7 @@
             "last_commit": "2026-02-15T17:09:09Z",
             "owner": "exelban",
             "repo": "stats",
-            "stars": 36541
+            "stars": 36551
           }
         },
         {
@@ -7629,7 +8234,7 @@
             "last_commit": "2026-01-29T01:10:12Z",
             "owner": "alacritty",
             "repo": "alacritty",
-            "stars": 62576
+            "stars": 62585
           }
         },
         {
@@ -7656,6 +8261,19 @@
             "owner": "jbtule",
             "repo": "cdto",
             "stars": 2411
+          }
+        },
+        {
+          "children": [],
+          "description": "An easy-to-use clipboard manager with time saving features that work across all terminals.",
+          "title": "Clipboard",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-11T15:44:24Z",
+            "owner": "Slackadays",
+            "repo": "Clipboard",
+            "stars": 5678
           }
         },
         {
@@ -7694,7 +8312,7 @@
             "last_commit": "2024-08-14T03:32:57Z",
             "owner": "vercel",
             "repo": "hyper",
-            "stars": 44709
+            "stars": 44710
           }
         },
         {
@@ -7704,10 +8322,10 @@
           "repo_info": {
             "archived": false,
             "language": "Objective-C",
-            "last_commit": "2026-02-20T01:27:23Z",
+            "last_commit": "2026-02-20T08:12:22Z",
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 16985
+            "stars": 16993
           }
         },
         {
@@ -7720,7 +8338,7 @@
             "last_commit": "2026-02-19T08:45:52Z",
             "owner": "kovidgoyal",
             "repo": "kitty",
-            "stars": 31403
+            "stars": 31412
           }
         },
         {
@@ -7764,6 +8382,19 @@
         },
         {
           "children": [],
+          "description": "Powerful cross-platform terminal emulator, featuring a modern GUI, and offering SSH, serial, Telnet, and SCP client support.",
+          "title": "Tabby",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-21T02:13:26Z",
+            "owner": "Eugeny",
+            "repo": "tabby",
+            "stars": 68989
+          }
+        },
+        {
+          "children": [],
           "description": "wallpapper is a console application for creating dynamic wallpapers for Mojave.",
           "title": "wallpapper",
           "repo_info": {
@@ -7785,11 +8416,11 @@
             "last_commit": "2026-02-18T19:43:35Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 33569
+            "stars": 33608
           }
         }
       ],
-      "title": "📺 Terminal (13)"
+      "title": "📺 Terminal (15)"
     },
     {
       "description": "",
@@ -7817,7 +8448,7 @@
             "last_commit": "2024-03-13T19:07:04Z",
             "owner": "toxblh",
             "repo": "MTMR",
-            "stars": 4276
+            "stars": 4277
           }
         },
         {
@@ -7830,7 +8461,7 @@
             "last_commit": "2022-11-12T18:15:22Z",
             "owner": "pock",
             "repo": "pock",
-            "stars": 10147
+            "stars": 10146
           }
         },
         {
@@ -7880,6 +8511,19 @@
       "items": [
         {
           "children": [],
+          "description": "Open-source automated time tracker that tracks how you spend time on your devices.",
+          "title": "ActivityWatch",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-20T15:39:28Z",
+            "owner": "ActivityWatch",
+            "repo": "activitywatch",
+            "stars": 16732
+          }
+        },
+        {
+          "children": [],
           "description": "One-click screenshots, video recordings, app installation for iOS and Android",
           "title": "Android tool for Mac",
           "repo_info": {
@@ -7889,6 +8533,19 @@
             "owner": "mortenjust",
             "repo": "androidtool-mac",
             "stars": 5432
+          }
+        },
+        {
+          "children": [],
+          "description": "Find and install macOS apps from Homebrew Cask and Fairground App catalogs.",
+          "title": "App Fair",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-03-22T13:36:54Z",
+            "owner": "App-Fair",
+            "repo": "App",
+            "stars": 65
           }
         },
         {
@@ -7914,7 +8571,7 @@
             "last_commit": "2025-07-29T12:17:38Z",
             "owner": "balena-io",
             "repo": "etcher",
-            "stars": 33146
+            "stars": 33151
           }
         },
         {
@@ -7950,10 +8607,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-19T17:55:54Z",
+            "last_commit": "2026-02-20T21:45:44Z",
             "owner": "betaflight",
             "repo": "betaflight-configurator",
-            "stars": 3062
+            "stars": 3064
           }
         },
         {
@@ -8054,10 +8711,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-20T01:35:24Z",
+            "last_commit": "2026-02-21T03:56:46Z",
             "owner": "kovidgoyal",
             "repo": "calibre",
-            "stars": 24142
+            "stars": 24148
           }
         },
         {
@@ -8084,6 +8741,19 @@
             "owner": "LumingYin",
             "repo": "ClipboardClear",
             "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.",
+          "title": "ClipFlow",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-20T05:00:20Z",
+            "owner": "praneeth552",
+            "repo": "clipflow",
+            "stars": 5
           }
         },
         {
@@ -8140,7 +8810,7 @@
             "last_commit": "2026-01-06T18:34:01Z",
             "owner": "arsenetar",
             "repo": "dupeguru",
-            "stars": 7323
+            "stars": 7327
           }
         },
         {
@@ -8192,7 +8862,7 @@
             "last_commit": "2026-02-19T06:23:22Z",
             "owner": "elfmz",
             "repo": "far2l",
-            "stars": 2119
+            "stars": 2121
           }
         },
         {
@@ -8202,10 +8872,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-19T16:56:19Z",
+            "last_commit": "2026-02-20T20:37:31Z",
             "owner": "filearchitect",
             "repo": "app",
-            "stars": 2
+            "stars": 4
           }
         },
         {
@@ -8218,7 +8888,7 @@
             "last_commit": "2026-02-18T06:33:01Z",
             "owner": "spieglt",
             "repo": "flyingcarpet",
-            "stars": 4950
+            "stars": 4951
           }
         },
         {
@@ -8246,6 +8916,11 @@
             "repo": "Funky",
             "stars": 22
           }
+        },
+        {
+          "children": [],
+          "description": "Small utility for visualizing disk usage using tree maps.",
+          "title": "GrandPerspective"
         },
         {
           "children": [],
@@ -8283,7 +8958,7 @@
             "last_commit": "2025-05-09T08:29:16Z",
             "owner": "Slllava",
             "repo": "gridfy",
-            "stars": 34
+            "stars": 35
           }
         },
         {
@@ -8293,7 +8968,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-02-20T03:27:04Z",
+            "last_commit": "2026-02-21T03:09:00Z",
             "owner": "Homebrew",
             "repo": "homebrew-cask",
             "stars": 21833
@@ -8309,7 +8984,7 @@
             "last_commit": "2025-09-20T20:28:17Z",
             "owner": "jordanbaird",
             "repo": "Ice",
-            "stars": 26062
+            "stars": 26065
           }
         },
         {
@@ -8348,7 +9023,7 @@
             "last_commit": "2024-11-12T15:32:40Z",
             "owner": "wulkano",
             "repo": "kap",
-            "stars": 19112
+            "stars": 19113
           }
         },
         {
@@ -8361,7 +9036,7 @@
             "last_commit": "2026-02-16T04:45:40Z",
             "owner": "keepassxreboot",
             "repo": "keepassxc",
-            "stars": 25913
+            "stars": 25920
           }
         },
         {
@@ -8387,7 +9062,7 @@
             "last_commit": "2025-11-10T08:58:27Z",
             "owner": "aonez",
             "repo": "Keka",
-            "stars": 6401
+            "stars": 6403
           }
         },
         {
@@ -8418,6 +9093,19 @@
         },
         {
           "children": [],
+          "description": "Application to spoof your iOS or iPhoneSimulator location.",
+          "title": "LocationSimulator",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-10-30T11:18:21Z",
+            "owner": "Schlaubischlump",
+            "repo": "LocationSimulator",
+            "stars": 2907
+          }
+        },
+        {
+          "children": [],
           "description": "Intelligent adaptive brightness for your external displays.",
           "title": "Lunar",
           "repo_info": {
@@ -8426,7 +9114,7 @@
             "last_commit": "2026-02-12T09:02:16Z",
             "owner": "alin23",
             "repo": "lunar",
-            "stars": 5443
+            "stars": 5444
           }
         },
         {
@@ -8504,7 +9192,7 @@
             "last_commit": "2026-01-29T22:22:38Z",
             "owner": "leits",
             "repo": "MeetingBar",
-            "stars": 5120
+            "stars": 5122
           }
         },
         {
@@ -8530,7 +9218,7 @@
             "last_commit": "2025-12-03T03:19:10Z",
             "owner": "artginzburg",
             "repo": "MiddleClick-Ventura",
-            "stars": 2451
+            "stars": 2453
           }
         },
         {
@@ -8556,7 +9244,7 @@
             "last_commit": "2026-02-09T09:32:16Z",
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 32455
+            "stars": 32457
           }
         },
         {
@@ -8582,7 +9270,7 @@
             "last_commit": "2026-02-09T15:58:52Z",
             "owner": "Caldis",
             "repo": "Mos",
-            "stars": 18693
+            "stars": 18698
           }
         },
         {
@@ -8595,7 +9283,7 @@
             "last_commit": "2026-02-03T06:32:39Z",
             "owner": "emqx",
             "repo": "MQTTX",
-            "stars": 4800
+            "stars": 4801
           }
         },
         {
@@ -8605,10 +9293,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T02:19:03Z",
+            "last_commit": "2026-02-21T03:32:34Z",
             "owner": "NixOS",
             "repo": "nix",
-            "stars": 16155
+            "stars": 16166
           }
         },
         {
@@ -8621,7 +9309,7 @@
             "last_commit": "2026-02-17T21:45:06Z",
             "owner": "nmap",
             "repo": "nmap",
-            "stars": 12424
+            "stars": 12427
           }
         },
         {
@@ -8647,7 +9335,7 @@
             "last_commit": "2024-05-28T13:24:21Z",
             "owner": "insidegui",
             "repo": "NoiseBuddy",
-            "stars": 733
+            "stars": 732
           }
         },
         {
@@ -8665,15 +9353,54 @@
         },
         {
           "children": [],
+          "description": "Beautiful calculator app for macOS",
+          "title": "Numi",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-20T05:36:55Z",
+            "owner": "nikolaeu",
+            "repo": "numi",
+            "stars": 6346
+          }
+        },
+        {
+          "children": [],
           "description": "Node Version Manager.",
           "title": "NVM",
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-01-29T22:18:26Z",
+            "last_commit": "2026-02-20T05:44:06Z",
             "owner": "nvm-sh",
             "repo": "nvm",
-            "stars": 91751
+            "stars": 91765
+          }
+        },
+        {
+          "children": [],
+          "description": "Your ultimate GPT companion for seamless access on your Mac",
+          "title": "OmniPrompt",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-07-31T07:04:56Z",
+            "owner": "nsmet",
+            "repo": "omniprompt-gpt-mac-app",
+            "stars": 11
+          }
+        },
+        {
+          "children": [],
+          "description": "All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts",
+          "title": "OnlySwitch",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-06T18:45:07Z",
+            "owner": "jacklandrin",
+            "repo": "OnlySwitch",
+            "stars": 5495
           }
         },
         {
@@ -8686,7 +9413,7 @@
             "last_commit": "2025-12-30T16:48:53Z",
             "owner": "dortania",
             "repo": "OpenCore-Legacy-Patcher",
-            "stars": 16679
+            "stars": 16684
           }
         },
         {
@@ -8699,7 +9426,7 @@
             "last_commit": "2026-01-29T00:41:16Z",
             "owner": "openrocket",
             "repo": "openrocket",
-            "stars": 1708
+            "stars": 1711
           }
         },
         {
@@ -8726,6 +9453,19 @@
             "owner": "sidneys",
             "repo": "pb-for-desktop",
             "stars": 518
+          }
+        },
+        {
+          "children": [],
+          "description": "Free file archiver utility and open source file compression and encryption tool supporting 200+ formats.",
+          "title": "PeaZip",
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2026-02-12T18:58:10Z",
+            "owner": "peazip",
+            "repo": "PeaZip",
+            "stars": 6942
           }
         },
         {
@@ -8777,7 +9517,7 @@
             "last_commit": "2026-02-20T01:33:36Z",
             "owner": "nbolar",
             "repo": "PlayStatus",
-            "stars": 170
+            "stars": 169
           }
         },
         {
@@ -8800,10 +9540,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-02-20T01:56:46Z",
+            "last_commit": "2026-02-20T22:50:32Z",
             "owner": "powershell",
             "repo": "powershell",
-            "stars": 51453
+            "stars": 51459
           }
         },
         {
@@ -8829,7 +9569,72 @@
             "last_commit": "2026-02-19T10:36:10Z",
             "owner": "unsecretised",
             "repo": "rustcast",
-            "stars": 348
+            "stars": 354
+          }
+        },
+        {
+          "children": [],
+          "description": "Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and automation triggers.",
+          "title": "SaneBar",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-21T03:17:05Z",
+            "owner": "sane-apps",
+            "repo": "SaneBar",
+            "stars": 183
+          }
+        },
+        {
+          "children": [],
+          "description": "Finder extension with 51+ right-click actions for file management, image conversion, and developer tools.",
+          "title": "SaneClick",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-21T03:17:13Z",
+            "owner": "sane-apps",
+            "repo": "SaneClick",
+            "stars": 1
+          }
+        },
+        {
+          "children": [],
+          "description": "Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection.",
+          "title": "SaneClip",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-21T03:17:20Z",
+            "owner": "sane-apps",
+            "repo": "SaneClip",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "System-level ad and tracker blocker via /etc/hosts with 200+ curated blocklists and Touch ID protection.",
+          "title": "SaneHosts",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-21T03:17:31Z",
+            "owner": "sane-apps",
+            "repo": "SaneHosts",
+            "stars": 6
+          }
+        },
+        {
+          "children": [],
+          "description": "Universal indie sales tracker for LemonSqueezy, Gumroad, and Stripe with on-device privacy.",
+          "title": "SaneSales",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-21T03:17:21Z",
+            "owner": "sane-apps",
+            "repo": "SaneSales",
+            "stars": 0
           }
         },
         {
@@ -8847,15 +9652,41 @@
         },
         {
           "children": [],
+          "description": "A simple screenshotting utility for thinking clearly.",
+          "title": "ScreenHint",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-05-15T19:33:12Z",
+            "owner": "salemhilal",
+            "repo": "ScreenHint",
+            "stars": 16
+          }
+        },
+        {
+          "children": [],
           "description": "24/7 screen and audio recording with AI-powered search. Local-first, privacy-focused rewind alternative.",
           "title": "Screenpipe",
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-02-20T01:57:39Z",
+            "last_commit": "2026-02-21T03:57:47Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 16932
+            "stars": 16942
+          }
+        },
+        {
+          "children": [],
+          "description": "App icon assets generator written in SwiftUI",
+          "title": "Slime",
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2023-01-08T16:26:54Z",
+            "owner": "Mas0nSun",
+            "repo": "Slime",
+            "stars": 49
           }
         },
         {
@@ -8886,6 +9717,19 @@
         },
         {
           "children": [],
+          "description": "Smotrite is a system monitor for macOS, which just work.",
+          "title": "Smotrite",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-11T20:57:42Z",
+            "owner": "Lukentui",
+            "repo": "smotrite-app",
+            "stars": 38
+          }
+        },
+        {
+          "children": [],
           "description": "Productivity tool, the main function is to search and launch external application actions and applications themselves, so you can stay focused on your current task. Kind of spotlight or alfred alternative.",
           "title": "Spotter",
           "repo_info": {
@@ -8907,7 +9751,7 @@
             "last_commit": "2026-02-15T17:09:09Z",
             "owner": "exelban",
             "repo": "stats",
-            "stars": 36541
+            "stars": 36551
           }
         },
         {
@@ -8917,10 +9761,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-20T00:31:23Z",
+            "last_commit": "2026-02-20T23:50:57Z",
             "owner": "Stirling-Tools",
             "repo": "Stirling-PDF",
-            "stars": 74358
+            "stars": 74399
           }
         },
         {
@@ -8933,7 +9777,7 @@
             "last_commit": "2024-03-03T06:49:35Z",
             "owner": "mohakapt",
             "repo": "Stringz",
-            "stars": 1020
+            "stars": 1021
           }
         },
         {
@@ -8943,10 +9787,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-18T04:56:49Z",
+            "last_commit": "2026-02-20T23:12:48Z",
             "owner": "johannesjo",
             "repo": "super-productivity",
-            "stars": 17535
+            "stars": 17549
           }
         },
         {
@@ -9003,6 +9847,19 @@
         },
         {
           "children": [],
+          "description": "TRex is the easiest way to copy the uncopyable text from images, YouTube videos, Zoom calls and more. If you can see it - you can copy it. TRex captures any text right into your Clipboard with magic of OCR.",
+          "title": "TRex",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-13T18:43:06Z",
+            "owner": "amebalabs",
+            "repo": "TRex",
+            "stars": 1694
+          }
+        },
+        {
+          "children": [],
           "description": "Ultra TabSaver is an open-source Tab Manager for Safari",
           "title": "Ultra TabSaver",
           "repo_info": {
@@ -9011,7 +9868,7 @@
             "last_commit": "2020-09-12T00:26:49Z",
             "owner": "Swift-open-source",
             "repo": "UltraTabSaver",
-            "stars": 286
+            "stars": 287
           }
         },
         {
@@ -9047,10 +9904,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-19T20:04:59Z",
+            "last_commit": "2026-02-21T00:11:43Z",
             "owner": "wireshark",
             "repo": "wireshark",
-            "stars": 9014
+            "stars": 9017
           }
         },
         {
@@ -9060,10 +9917,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-02-20T02:00:40Z",
+            "last_commit": "2026-02-21T02:00:49Z",
             "owner": "xournalpp",
             "repo": "xournalpp",
-            "stars": 14328
+            "stars": 14330
           }
         },
         {
@@ -9076,7 +9933,7 @@
             "last_commit": "2026-02-18T19:43:35Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 33569
+            "stars": 33608
           }
         },
         {
@@ -9089,11 +9946,11 @@
             "last_commit": "2025-06-28T08:25:38Z",
             "owner": "felixhageloh",
             "repo": "uebersicht",
-            "stars": 4884
+            "stars": 4886
           }
         }
       ],
-      "title": "🛠️ Utilities (94)"
+      "title": "🛠️ Utilities (112)"
     },
     {
       "description": "",
@@ -9126,7 +9983,7 @@
             "last_commit": "2024-10-29T12:19:30Z",
             "owner": "shadowsocks",
             "repo": "ShadowsocksX-NG",
-            "stars": 32902
+            "stars": 32903
           }
         },
         {
@@ -9180,9 +10037,14 @@
             "repo": "VPN-Bypass",
             "stars": 15
           }
+        },
+        {
+          "children": [],
+          "description": "Fast, Modern, Secure VPN Tunnel.",
+          "title": "WireGuard"
         }
       ],
-      "title": "🔐 VPN & Proxy (7)"
+      "title": "🔐 VPN & Proxy (8)"
     },
     {
       "description": "",
@@ -9288,7 +10150,7 @@
             "last_commit": "2026-02-18T16:22:15Z",
             "owner": "HandBrake",
             "repo": "HandBrake",
-            "stars": 22419
+            "stars": 22416
           }
         },
         {
@@ -9301,7 +10163,7 @@
             "last_commit": "2026-02-18T05:03:58Z",
             "owner": "mifi",
             "repo": "lossless-cut",
-            "stars": 38376
+            "stars": 38405
           }
         },
         {
@@ -9324,10 +10186,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-02-19T18:18:56Z",
+            "last_commit": "2026-02-21T00:36:35Z",
             "owner": "mpv-player",
             "repo": "mpv",
-            "stars": 34115
+            "stars": 34130
           }
         },
         {
@@ -9340,7 +10202,7 @@
             "last_commit": "2026-02-18T05:09:30Z",
             "owner": "OpenShot",
             "repo": "openshot-qt",
-            "stars": 5481
+            "stars": 5483
           }
         },
         {
@@ -9366,7 +10228,7 @@
             "last_commit": "2026-02-16T19:23:35Z",
             "owner": "Marginal",
             "repo": "QLVideo",
-            "stars": 3277
+            "stars": 3279
           }
         },
         {
@@ -9397,7 +10259,7 @@
             "last_commit": "2026-02-19T15:33:32Z",
             "owner": "videolan",
             "repo": "vlc",
-            "stars": 17683
+            "stars": 17681
           }
         },
         {
@@ -9415,6 +10277,19 @@
         },
         {
           "children": [],
+          "description": "Yet Another PiP Extension. Finds all HTML5 videos on a webpage and allows you to play them in Picture-in-Picture mode from the Safari toolbar.",
+          "title": "Yape",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-12-25T17:10:09Z",
+            "owner": "leonspok",
+            "repo": "Yape",
+            "stars": 17
+          }
+        },
+        {
+          "children": [],
           "description": "Nifty macOS application which enables you to browse and download videos from YouTube.",
           "title": "Yoda",
           "repo_info": {
@@ -9427,7 +10302,7 @@
           }
         }
       ],
-      "title": "🎬 Video (19)"
+      "title": "🎬 Video (20)"
     },
     {
       "description": "",
@@ -9499,6 +10374,19 @@
         },
         {
           "children": [],
+          "description": "Equinox is an application that allows you to create macOS dynamic wallpapers.",
+          "title": "Equinox",
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-19T21:09:13Z",
+            "owner": "rlxone",
+            "repo": "Equinox",
+            "stars": 1830
+          }
+        },
+        {
+          "children": [],
           "description": "Muzei wallpaper app for macOS.",
           "title": "Muzei",
           "repo_info": {
@@ -9520,7 +10408,7 @@
             "last_commit": "2025-10-29T07:29:57Z",
             "owner": "sindresorhus",
             "repo": "Plash",
-            "stars": 3920
+            "stars": 3919
           }
         },
         {
@@ -9559,7 +10447,7 @@
             "last_commit": "2016-03-02T23:27:43Z",
             "owner": "davidcelis",
             "repo": "Sunscreen",
-            "stars": 61
+            "stars": 60
           }
         },
         {
@@ -9576,7 +10464,7 @@
           }
         }
       ],
-      "title": "🖥️ Wallpaper (11)"
+      "title": "🖥️ Wallpaper (12)"
     },
     {
       "description": "",
@@ -9591,7 +10479,7 @@
             "last_commit": "2026-02-19T22:42:07Z",
             "owner": "lwouis",
             "repo": "alt-tab-macos",
-            "stars": 14841
+            "stars": 14853
           }
         },
         {
@@ -9604,7 +10492,7 @@
             "last_commit": "2026-02-19T22:42:07Z",
             "owner": "lwouis",
             "repo": "alt-tab-macos",
-            "stars": 14841
+            "stars": 14853
           }
         },
         {
@@ -9617,7 +10505,7 @@
             "last_commit": "2026-01-02T02:28:19Z",
             "owner": "ianyh",
             "repo": "Amethyst",
-            "stars": 16004
+            "stars": 16005
           }
         },
         {
@@ -9669,7 +10557,7 @@
             "last_commit": "2025-12-24T11:17:49Z",
             "owner": "Hammerspoon",
             "repo": "hammerspoon",
-            "stars": 14497
+            "stars": 14503
           }
         },
         {
@@ -9682,7 +10570,7 @@
             "last_commit": "2025-09-20T20:28:17Z",
             "owner": "jordanbaird",
             "repo": "Ice",
-            "stars": 26062
+            "stars": 26065
           }
         },
         {
@@ -9695,7 +10583,7 @@
             "last_commit": "2026-02-19T18:18:42Z",
             "owner": "MrKai77",
             "repo": "Loop",
-            "stars": 10062
+            "stars": 10063
           }
         },
         {
@@ -9721,7 +10609,7 @@
             "last_commit": "2026-02-12T06:33:42Z",
             "owner": "rxhanson",
             "repo": "Rectangle",
-            "stars": 28432
+            "stars": 28437
           }
         },
         {
@@ -9773,7 +10661,7 @@
             "last_commit": "2025-07-09T10:20:18Z",
             "owner": "Conxt",
             "repo": "WindowGlue",
-            "stars": 212
+            "stars": 213
           }
         },
         {
@@ -9786,7 +10674,7 @@
             "last_commit": "2026-01-17T15:53:29Z",
             "owner": "koekeishiya",
             "repo": "yabai",
-            "stars": 28206
+            "stars": 28207
           }
         }
       ],
@@ -9799,7 +10687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-20T04:17:48.619Z",
+    "last_updated": "2026-02-21T04:10:34.412Z",
     "original_repository": "serhii-londar/open-source-mac-os-apps",
     "source_repository": "v1nvn/enhansome-open-source-mac-os-apps",
     "source_repository_description": null,
